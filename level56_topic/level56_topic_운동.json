@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "What kind of exercise do you do regularly? Describe your routine.",
+    "hint": "exercise, routine, frequency, type",
+    "translation": "당신은 평소에 어떤 운동을 하나요? 당신의 루틴을 설명해 주세요."
+  },
+  {
+    "id": 2,
+    "text": "Tell me about a sport or physical activity you enjoy and why.",
+    "hint": "sport, activity, enjoyment, reason",
+    "translation": "즐겨 하는 스포츠나 신체 활동에 대해 말하고 그 이유를 설명해 주세요."
+  },
+  {
+    "id": 3,
+    "text": "How has exercise changed your life or health?",
+    "hint": "change, life, health, benefits",
+    "translation": "운동이 당신의 삶이나 건강에 어떻게 변화를 주었나요?"
+  }
+]

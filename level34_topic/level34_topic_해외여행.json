@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "Tell me about an overseas trip you took. Where did you go?",
+    "hint": "overseas trip, destination, experience",
+    "translation": "다녀온 해외 여행에 대해 말해 주세요. 어디에 갔나요?"
+  },
+  {
+    "id": 2,
+    "text": "What was the most interesting thing you experienced abroad?",
+    "hint": "interesting, abroad, experience",
+    "translation": "해외에서 가장 흥미로웠던 것은 무엇인가요?"
+  },
+  {
+    "id": 3,
+    "text": "How do you prepare for international travel?",
+    "hint": "preparation, international travel",
+    "translation": "국제 여행을 위해 어떻게 준비하나요?"
+  }
+]

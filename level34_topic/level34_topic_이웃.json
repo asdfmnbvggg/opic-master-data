@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "Tell me about your neighbors. What are they like?",
+    "hint": "neighbors, description, relationships",
+    "translation": "당신의 이웃에 대해 말해 주세요. 그들은 어떤가요?"
+  },
+  {
+    "id": 2,
+    "text": "How often do you interact with your neighbors?",
+    "hint": "interaction, frequency, neighbors",
+    "translation": "이웃과 얼마나 자주 상호작용하나요?"
+  },
+  {
+    "id": 3,
+    "text": "Describe a positive experience you've had with a neighbor.",
+    "hint": "positive, experience, neighbor",
+    "translation": "이웃과 있었던 긍정적인 경험을 설명해 주세요."
+  }
+]

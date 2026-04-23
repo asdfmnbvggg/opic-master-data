@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "Tell me about a mountain you have climbed or visited.",
+    "hint": "mountain, climbed, visited",
+    "translation": "등반했거나 방문한 산에 대해 말해 주세요."
+  },
+  {
+    "id": 2,
+    "text": "What do you enjoy most about spending time in the mountains?",
+    "hint": "enjoy, mountains, nature",
+    "translation": "산에서 시간을 보낼 때 가장 즐기는 것은 무엇인가요?"
+  },
+  {
+    "id": 3,
+    "text": "Describe the hiking trail or path you took in the mountains.",
+    "hint": "hiking trail, path, description",
+    "translation": "산에서 걷던 등산로를 설명해 주세요."
+  }
+]

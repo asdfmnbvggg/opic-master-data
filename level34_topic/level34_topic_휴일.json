@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "How do you usually spend your holidays or weekends?",
+    "hint": "holidays, weekends, activities",
+    "translation": "휴일이나 주말을 어떻게 보내시나요?"
+  },
+  {
+    "id": 2,
+    "text": "Tell me about a memorable holiday you had recently.",
+    "hint": "memorable, holiday, recent",
+    "translation": "최근에 있었던 기억에 남는 휴일에 대해 말해 주세요."
+  },
+  {
+    "id": 3,
+    "text": "What activities do you enjoy doing during your free time?",
+    "hint": "free time, activities, enjoyment",
+    "translation": "여가 시간에 즐겨 하는 활동은 무엇인가요?"
+  }
+]

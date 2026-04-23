@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "Where do you like to shop and what do you usually buy?",
+    "hint": "shopping, location, purchases",
+    "translation": "어디에서 쇼핑하는 것을 좋아하나요? 보통 무엇을 사나요?"
+  },
+  {
+    "id": 2,
+    "text": "Describe a memorable shopping experience you had.",
+    "hint": "memorable, shopping experience",
+    "translation": "기억에 남는 쇼핑 경험을 설명해 주세요."
+  },
+  {
+    "id": 3,
+    "text": "How do you compare online shopping and shopping in stores?",
+    "hint": "online shopping, stores, comparison",
+    "translation": "온라인 쇼핑과 매장 쇼핑을 어떻게 비교하나요?"
+  }
+]

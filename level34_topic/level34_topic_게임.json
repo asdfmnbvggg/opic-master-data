@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "What kind of games do you enjoy playing? Tell me about your favorites.",
+    "hint": "games, enjoy, favorites",
+    "translation": "어떤 게임을 즐겨 하나요? 가장 좋아하는 게임에 대해 말해 주세요."
+  },
+  {
+    "id": 2,
+    "text": "How often do you play games and with whom?",
+    "hint": "frequency, play games, with whom",
+    "translation": "얼마나 자주 게임을 하나요? 그리고 누구와 함께 하나요?"
+  },
+  {
+    "id": 3,
+    "text": "Describe a memorable gaming experience you had.",
+    "hint": "memorable, gaming experience",
+    "translation": "기억에 남는 게임 경험을 설명해 주세요."
+  }
+]

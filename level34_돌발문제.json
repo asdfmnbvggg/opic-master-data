@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "Imagine you are a tour guide. Describe a famous landmark in your city.",
+    "hint": "tour guide, landmark, description, details",
+    "translation": "당신이 투어 가이드라고 상상해 보세요. 당신의 도시에서 유명한 랜드마크를 설명해 주세요."
+  },
+  {
+    "id": 2,
+    "text": "Role-play a situation where you are ordering food at a restaurant. What would you say?",
+    "hint": "restaurant, ordering, dialogue, polite",
+    "translation": "레스토랑에서 음식을 주문하는 상황을 역할 놀이해 보세요. 무엇을 말할 건가요?"
+  },
+  {
+    "id": 3,
+    "text": "Pretend you are a customer complaining about a product. How would you express your dissatisfaction?",
+    "hint": "complaint, product, dissatisfaction, polite",
+    "translation": "제품에 대해 불만을 제기하는 고객이라고 상상해 보세요. 어떻게 불만을 표현할 건가요?"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "Tell me about a performance or show you recently attended. What was it about?",
+    "hint": "performance, show, experience, details",
+    "translation": "최근에 관람한 공연이나 쇼에 대해 말해 주세요. 그것은 무엇에 관한 것이었나요?"
+  },
+  {
+    "id": 2,
+    "text": "Describe the atmosphere and how the audience reacted during the performance.",
+    "hint": "atmosphere, audience, reaction, feelings",
+    "translation": "공연 중의 분위기와 관객들의 반응을 설명해 주세요."
+  },
+  {
+    "id": 3,
+    "text": "What kind of performances do you enjoy the most and why?",
+    "hint": "favorite, type, reason, preference",
+    "translation": "어떤 종류의 공연을 가장 즐기나요? 그리고 그 이유는 무엇인가요?"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "Tell me about a recent trip you took. Where did you go and what did you do?",
+    "hint": "trip, destination, activities, experience",
+    "translation": "최근에 다녀온 여행에 대해 말해 주세요. 어디에 갔고 무엇을 했나요?"
+  },
+  {
+    "id": 2,
+    "text": "Describe the most memorable place you visited during your trip and why it was special.",
+    "hint": "memorable, place, special, reason",
+    "translation": "여행 중 가장 기억에 남는 장소를 설명하고 왜 특별했는지 말해 주세요."
+  },
+  {
+    "id": 3,
+    "text": "Compare traveling now to how you traveled in the past.",
+    "hint": "now, past, comparison, changes",
+    "translation": "지금의 여행과 과거의 여행을 비교해 보세요."
+  }
+]

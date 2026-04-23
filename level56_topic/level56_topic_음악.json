@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "What kind of music do you listen to? Tell me about your favorite genre.",
+    "hint": "music, listen to, favorite genre",
+    "translation": "어떤 음악을 듣나요? 가장 좋아하는 장르에 대해 말해 주세요."
+  },
+  {
+    "id": 2,
+    "text": "Describe how music affects your mood or daily life.",
+    "hint": "music, mood, daily life",
+    "translation": "음악이 당신의 기분이나 일상 생활에 어떻게 영향을 미치나요?"
+  },
+  {
+    "id": 3,
+    "text": "Tell me about a concert or musical event you attended.",
+    "hint": "concert, musical event, attended",
+    "translation": "참석한 콘서트나 음악 이벤트에 대해 말해 주세요."
+  }
+]

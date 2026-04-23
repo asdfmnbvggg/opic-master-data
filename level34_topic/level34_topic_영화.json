@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "Tell me about a movie you watched recently. What was it about?",
+    "hint": "movie, recent, plot",
+    "translation": "최근에 본 영화에 대해 말해 주세요. 어떤 내용이었나요?"
+  },
+  {
+    "id": 2,
+    "text": "What kind of movies do you usually like and why?",
+    "hint": "movie preferences, genres, reasons",
+    "translation": "보통 어떤 종류의 영화를 좋아하나요? 그리고 그 이유는 무엇인가요?"
+  },
+  {
+    "id": 3,
+    "text": "Describe a movie theater experience you enjoyed.",
+    "hint": "movie theater, experience, enjoyment",
+    "translation": "즐겼던 영화관 경험을 설명해 주세요."
+  }
+]

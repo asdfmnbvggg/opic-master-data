@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "Which social media platforms do you use most often?",
+    "hint": "social media, platforms, use",
+    "translation": "어떤 소셜 미디어 플랫폼을 가장 자주 사용하나요?"
+  },
+  {
+    "id": 2,
+    "text": "How does social media affect your daily life?",
+    "hint": "social media, daily life, effect",
+    "translation": "소셜 미디어가 당신의 일상에 어떤 영향을 미치나요?"
+  },
+  {
+    "id": 3,
+    "text": "Describe a positive experience you had using social media.",
+    "hint": "positive experience, social media",
+    "translation": "소셜 미디어를 사용하면서 있었던 긍정적인 경험을 설명해 주세요."
+  }
+]

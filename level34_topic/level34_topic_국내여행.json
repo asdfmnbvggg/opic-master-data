@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "Tell me about a domestic trip you took. Where did you go?",
+    "hint": "domestic trip, destination, experience",
+    "translation": "다녀온 국내 여행에 대해 말해 주세요. 어디에 갔나요?"
+  },
+  {
+    "id": 2,
+    "text": "Describe a memorable place you visited in your country.",
+    "hint": "memorable, place, country",
+    "translation": "국내에서 방문했던 기억에 남는 장소를 설명해 주세요."
+  },
+  {
+    "id": 3,
+    "text": "How do you usually plan domestic travel?",
+    "hint": "plan, domestic travel, preparation",
+    "translation": "국내 여행을 보통 어떻게 계획하나요?"
+  }
+]

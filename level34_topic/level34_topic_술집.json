@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "Tell me about a bar or pub you like to visit. What makes it special?",
+    "hint": "bar, pub, special, reasons",
+    "translation": "좋아하는 바나 펍에 대해 말해 주세요. 그것이 특별한 이유는 무엇인가요?"
+  },
+  {
+    "id": 2,
+    "text": "Describe the atmosphere in your favorite drinking establishment.",
+    "hint": "atmosphere, favorite, drinking",
+    "translation": "가장 좋아하는 음주 장소의 분위기를 설명해 주세요."
+  },
+  {
+    "id": 3,
+    "text": "What kind of drinks do you enjoy and why?",
+    "hint": "drinks, enjoy, reasons",
+    "translation": "어떤 종류의 음료를 즐기나요? 그리고 그 이유는 무엇인가요?"
+  }
+]

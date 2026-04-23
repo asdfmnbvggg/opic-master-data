@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "What kind of cooking do you enjoy doing? Tell me about a dish you like to make.",
+    "hint": "cooking, dish, ingredients, process",
+    "translation": "어떤 요리를 즐겨 하나요? 만들기 좋아하는 요리에 대해 말해 주세요."
+  },
+  {
+    "id": 2,
+    "text": "Describe how you prepare a traditional meal from your culture.",
+    "hint": "traditional, meal, preparation, culture",
+    "translation": "당신의 문화에서 전통적인 식사를 준비하는 방법을 설명해 주세요."
+  },
+  {
+    "id": 3,
+    "text": "How often do you cook at home, and what are your favorite recipes?",
+    "hint": "frequency, home cooking, recipes",
+    "translation": "집에서 얼마나 자주 요리하나요? 그리고 가장 좋아하는 레시피는 무엇인가요?"
+  }
+]

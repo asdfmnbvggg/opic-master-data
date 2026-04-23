@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "Tell me about your home. What does it look like?",
+    "hint": "home, description, rooms, features",
+    "translation": "당신의 집에 대해 말해 주세요. 집은 어떤 모습인가요?"
+  },
+  {
+    "id": 2,
+    "text": "Describe your favorite room in your house and why you like it.",
+    "hint": "favorite room, reason, description",
+    "translation": "집에서 가장 좋아하는 방을 설명하고 왜 좋아하는지 말해 주세요."
+  },
+  {
+    "id": 3,
+    "text": "How has your living situation changed over the years?",
+    "hint": "change, years, living situation",
+    "translation": "시간이 지남에 따라 당신의 거주 상황은 어떻게 변했나요?"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "Tell me about a camping trip you went on. What did you do?",
+    "hint": "camping trip, activities, experience",
+    "translation": "다녀온 캠핑 여행에 대해 말해 주세요. 무엇을 했나요?"
+  },
+  {
+    "id": 2,
+    "text": "What do you like most about camping and what preparations do you make?",
+    "hint": "like most, preparations, camping",
+    "translation": "캠핑에서 가장 좋아하는 점은 무엇인가요? 그리고 어떤 준비를 하나요?"
+  },
+  {
+    "id": 3,
+    "text": "Describe the campsite and the surroundings during your camping experience.",
+    "hint": "campsite, surroundings, description",
+    "translation": "캠핑 경험 중 캠핑장과 주변 환경을 설명해 주세요."
+  }
+]

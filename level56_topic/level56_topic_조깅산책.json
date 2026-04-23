@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "Do you enjoy jogging or walking? Tell me about your routine.",
+    "hint": "jogging, walking, routine, enjoyment",
+    "translation": "조깅이나 산책을 즐기나요? 당신의 루틴에 대해 말해 주세요."
+  },
+  {
+    "id": 2,
+    "text": "Describe a favorite place where you like to jog or walk and why.",
+    "hint": "favorite place, reason, description",
+    "translation": "조깅이나 산책하기 좋아하는 장소를 설명하고 그 이유를 말해 주세요."
+  },
+  {
+    "id": 3,
+    "text": "How does jogging or walking make you feel, and how often do you do it?",
+    "hint": "feelings, frequency, benefits",
+    "translation": "조깅이나 산책이 당신에게 어떤 느낌을 주나요? 그리고 얼마나 자주 하나요?"
+  }
+]

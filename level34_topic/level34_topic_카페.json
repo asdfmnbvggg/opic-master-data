@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "Tell me about your favorite cafe. What makes it special to you?",
+    "hint": "favorite, cafe, special, reason",
+    "translation": "가장 좋아하는 카페에 대해 말해 주세요. 그것이 당신에게 특별한 이유는 무엇인가요?"
+  },
+  {
+    "id": 2,
+    "text": "Describe the atmosphere and interior of your favorite cafe.",
+    "hint": "atmosphere, interior, description, details",
+    "translation": "가장 좋아하는 카페의 분위기와 내부를 설명해 주세요."
+  },
+  {
+    "id": 3,
+    "text": "Tell me about a memorable experience you had at a cafe.",
+    "hint": "memorable, experience, cafe, story",
+    "translation": "카페에서 있었던 기억에 남는 경험에 대해 말해 주세요."
+  }
+]
