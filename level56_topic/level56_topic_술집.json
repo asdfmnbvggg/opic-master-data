@@ -1,20 +1,26 @@
 [
   {
-    "id": 1,
-    "text": "Tell me about a bar or pub you like to visit. What makes it special?",
-    "hint": "bar, pub, special, reasons",
-    "translation": "좋아하는 바나 펍에 대해 말해 주세요. 그것이 특별한 이유는 무엇인가요?"
+  "id": 1,
+  "text": "What do you typically do at the bar? Who do you usually go with? What menu do you like to order? Let me know what you do at the bar in detail.",
+  "hint": "go out for drinks(술 마시러 가다), hang out with friends(친구들과 어울리다), casual atmosphere(편안한 분위기), order drinks(술을 주문하다), signature menu(대표 메뉴), light snacks(가벼운 안주), have a conversation(대화를 나누다), unwind after a long day(하루를 마치고 쉬다), enjoy the vibe(분위기를 즐기다), spend quality time(좋은 시간을 보내다)",
+  "translation": "술집에서 일반적으로 무엇을 하시나요? 누구와 주로 같이 가나요? 어떤 메뉴를 좋아하시나요? 술집에서 무엇을 하는지 자세히 알려주세요."
   },
   {
-    "id": 2,
-    "text": "Describe the atmosphere in your favorite drinking establishment.",
-    "hint": "atmosphere, favorite, drinking",
-    "translation": "가장 좋아하는 음주 장소의 분위기를 설명해 주세요."
+  "id": 2,
+  "text": "How have bars changed over the last several years? What do you think about the changes? How were they in the past, and what about now? What are the differences and the similarities? Tell me all the changes in detail.",
+  "hint": "over the years(수년간), drinking culture(음주 문화), in the past(과거에는), nowadays(요즘에는), modern interior(현대적인 인테리어), wider selection(더 다양한 선택지), social atmosphere(사교적인 분위기), customer preferences(고객 취향), still popular(여전히 인기 있는), noticeable changes(눈에 띄는 변화)",
+  "translation": "최근 몇 년간 술집들은 어떻게 변화했나요? 그 변화들에 대해 어떻게 생각하시나요? 술집들은 과거에 어땠고 지금은 어떤가요? 차이점은 무엇이고 비슷한 점은 무엇인가요? 모든 변화에 대해 자세히 말해주세요."
   },
   {
-    "id": 3,
-    "text": "What kind of drinks do you enjoy and why?",
-    "hint": "drinks, enjoy, reasons",
-    "translation": "어떤 종류의 음료를 즐기나요? 그리고 그 이유는 무엇인가요?"
+  "id": 3,
+  "text": "Tell me about a memorable incident that happened at a bar. What exactly happened, and why was it so special? How did you deal with it? Please tell me everything about that incident in detail.",
+  "hint": "memorable incident(기억에 남는 사건), unexpected situation(예상치 못한 상황), lively atmosphere(활기찬 분위기), run into someone(우연히 누군가를 만나다), misunderstanding(오해), handle the situation(상황에 대처하다), stay calm(침착함을 유지하다), solve the problem(문제를 해결하다), make it unforgettable(잊을 수 없게 만들다), leave a strong impression(강한 인상을 남기다)",
+  "translation": "술집에서 일어났던 기억에 남는 사건에 대해 말해주세요. 정확히 무슨 일이 일어났고, 왜 그 일이 특별하나요? 어떻게 대처하셨나요? 그 사건에 대한 모든 것을 자세히 말해 주세요."
+  },
+  {
+  "id": 4,
+  "text": "When was the first time you went to a bar? Where did you go, and what did it look like? Who did you go with? What did you eat at the bar? Provide as many details as possible.",
+  "hint": "first time experience(첫 경험), back then(그 당시에는), cozy atmosphere(아늑한 분위기), dim lighting(어두운 조명), go with friends(친구들과 가다), try new food(새로운 음식을 먹다), order drinks(술을 주문하다), bar snacks(안주), feel nervous(긴장하다), memorable moment(기억에 남는 순간)",
+  "translation": "언제 처음으로 바에 갔었나요? 어디에 갔고 그 곳은 어땠나요? 누구와 함께 갔었나요? 바에서 무엇을 먹었나요? 가능한 많은 세부 사항을 알려주세요."
   }
 ]
