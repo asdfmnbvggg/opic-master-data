@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "id": 1,
     "text": "Tell me about a park you like to visit. What makes it special?",
     "hint": "park, visit, special",
-    "translation": "좋아하는 공원에 대해 말해 주세요. 그것이 특별한 이유는 무엇인가요?"
+    "translation": "좋아하는 공원에 대해 말해 주세요. 그곳이 특별한 이유는 무엇인가요?"
   },
   {
     "id": 2,
@@ -15,6 +15,36 @@
     "id": 3,
     "text": "What activities do you do when you go to the park?",
     "hint": "activities, park, go to",
-    "translation": "공원에 갈 때 어떤 활동을 하나요?"
+    "translation": "공원에 가면 어떤 활동을 하나요?"
+  },
+  {
+    "id": 4,
+    "text": "Please describe the park you often go to. Where is it located? What does it look like? What do people do there?",
+    "hint": "frequent park, location, appearance, activities",
+    "translation": "자주 가는 공원에 대해 설명해 주세요. 어디에 위치해 있나요? 어떻게 생겼나요? 사람들은 거기서 무엇을 하나요?"
+  },
+  {
+    "id": 5,
+    "text": "What do you normally do at the park? Tell me about the typical activities when you go to the park.",
+    "hint": "park routine, typical activities",
+    "translation": "공원에서 보통 뭘 하세요? 공원에 가면 보통 어떤 활동을 하는지 말해주세요."
+  },
+  {
+    "id": 6,
+    "text": "Tell me about one memorable experience at the park. What happened, and why was it memorable?",
+    "hint": "memorable experience, park, reason",
+    "translation": "공원에서 있었던 기억에 남는 경험 하나를 이야기해 주세요. 무슨 일이 있었고, 왜 기억에 남는가요?"
+  },
+  {
+    "id": 7,
+    "text": "Please describe the park you often go to. Where is it located? What does it look like?",
+    "hint": "park description, location, appearance",
+    "translation": "자주 가는 공원에 대해 설명해 주세요. 어디에 위치해 있나요? 어떻게 생겼나요?"
+  },
+  {
+    "id": 8,
+    "text": "I also enjoy going to a park. Ask me 3 or 4 questions about the park I often go to.",
+    "hint": "question-making, park, frequent visits",
+    "translation": "저도 공원에 가는 걸 좋아해요. 제가 자주 가는 공원에 대해 3~4가지 질문을 해보세요."
   }
 ]
