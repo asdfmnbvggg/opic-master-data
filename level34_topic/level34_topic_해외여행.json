@@ -1,20 +1,56 @@
-[
+﻿[
   {
     "id": 1,
     "text": "Tell me about an overseas trip you took. Where did you go?",
     "hint": "overseas trip, destination, experience",
-    "translation": "다녀온 해외 여행에 대해 말해 주세요. 어디에 갔나요?"
+    "translation": "해외여행을 다녀온 경험에 대해 말해 주세요. 어디로 갔나요?"
   },
   {
     "id": 2,
     "text": "What was the most interesting thing you experienced abroad?",
     "hint": "interesting, abroad, experience",
-    "translation": "해외에서 가장 흥미로웠던 것은 무엇인가요?"
+    "translation": "해외에서 경험한 것 중 가장 흥미로웠던 것은 무엇인가요?"
   },
   {
     "id": 3,
     "text": "How do you prepare for international travel?",
     "hint": "preparation, international travel",
-    "translation": "국제 여행을 위해 어떻게 준비하나요?"
+    "translation": "국제 여행을 위해 어떻게 준비하시나요?"
+  },
+  {
+    "id": 4,
+    "text": "You indicated in the survey that you take trips internationally. Please tell me about a city or a place you had visited. What was the place like?",
+    "hint": "international trips, visited city, place description",
+    "translation": "설문 조사에서 해외여행을 자주 하신다고 하셨는데, 방문하셨던 도시나 장소에 대해 이야기해 주시겠어요? 그곳은 어땠나요?"
+  },
+  {
+    "id": 5,
+    "text": "What do you usually do when you travel overseas? Tell me about some activities you do when you travel overseas.",
+    "hint": "overseas travel, typical activities",
+    "translation": "해외여행을 가면 보통 무엇을 하세요? 해외여행에서 하는 활동 몇 가지를 이야기해 주세요."
+  },
+  {
+    "id": 6,
+    "text": "Tell me about a memorable experience you had while traveling abroad and what happened. And why is it so memorable or unforgettable?",
+    "hint": "memorable experience, abroad, what happened, reason",
+    "translation": "해외여행 중 겪었던 기억에 남는 경험과 그 당시 상황을 이야기해 주세요. 그리고 그 경험이 왜 그렇게 기억에 남거나 잊을 수 없는지 설명해 주세요."
+  },
+  {
+    "id": 7,
+    "text": "You indicated in the survey that you take trips overseas. Please tell me about a city or a place that you have visited. What was the place like?",
+    "hint": "survey response, overseas trips, visited place",
+    "translation": "설문에서 해외여행을 한다고 답하셨습니다. 방문했던 도시나 장소에 대해 이야기해 주세요. 그곳은 어땠나요?"
+  },
+  {
+    "id": 8,
+    "text": "Tell me about your first trip abroad. Where did you go? And who did you go there with? What did you do there?",
+    "hint": "first trip abroad, destination, companions, activities",
+    "translation": "첫 해외여행에 대해 말해 주세요. 어디로 갔고, 누구와 함께 갔나요? 거기서 무엇을 했나요?"
+  },
+  {
+    "id": 9,
+    "text": "Tell me about a memorable experience you or someone you know experienced while traveling abroad. What happened? And why is the experience memorable?",
+    "hint": "memorable experience, you or acquaintance, overseas travel",
+    "translation": "해외여행 중 본인이나 지인이 겪었던 기억에 남는 경험을 이야기해 주세요. 무슨 일이 있었고, 왜 그 경험이 기억에 남나요?"
   }
 ]
