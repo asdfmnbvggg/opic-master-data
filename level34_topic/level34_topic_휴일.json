@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "id": 1,
     "text": "How do you usually spend your holidays or weekends?",
     "hint": "holidays, weekends, activities",
-    "translation": "휴일이나 주말을 어떻게 보내시나요?"
+    "translation": "휴일이나 주말을 보통 어떻게 보내시나요?"
   },
   {
     "id": 2,
@@ -16,5 +16,23 @@
     "text": "What activities do you enjoy doing during your free time?",
     "hint": "free time, activities, enjoyment",
     "translation": "여가 시간에 즐겨 하는 활동은 무엇인가요?"
+  },
+  {
+    "id": 4,
+    "text": "Let's talk about the holidays in your country. What holidays are there? How are they celebrated?",
+    "hint": "holidays in your country, celebration",
+    "translation": "당신 나라의 공휴일에 대해 이야기해 볼까요? 어떤 공휴일이 있나요? 어떻게 기념하나요?"
+  },
+  {
+    "id": 5,
+    "text": "What is the biggest holiday in your country? What activities do you usually do during the holiday?",
+    "hint": "biggest holiday, typical activities",
+    "translation": "당신 나라에서 가장 큰 명절은 언제인가요? 그 명절에는 보통 어떤 활동을 하시나요?"
+  },
+  {
+    "id": 6,
+    "text": "Tell me about the most memorable holiday you had when you were a child. What happened? Why is it so memorable to you?",
+    "hint": "childhood holiday, memorable event",
+    "translation": "어렸을 때 가장 기억에 남는 휴가에 대해 이야기해 주세요. 무슨 일이 있었나요? 왜 그 휴가가 그렇게 기억에 남나요?"
   }
 ]
