@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "id": 1,
     "text": "Tell me about a performance or show you recently attended. What was it about?",
     "hint": "performance, show, experience, details",
-    "translation": "최근에 관람한 공연이나 쇼에 대해 말해 주세요. 그것은 무엇에 관한 것이었나요?"
+    "translation": "최근에 관람한 공연이나 쇼에 대해 말해 주세요. 어떤 내용이었나요?"
   },
   {
     "id": 2,
@@ -15,6 +15,42 @@
     "id": 3,
     "text": "What kind of performances do you enjoy the most and why?",
     "hint": "favorite, type, reason, preference",
-    "translation": "어떤 종류의 공연을 가장 즐기나요? 그리고 그 이유는 무엇인가요?"
+    "translation": "어떤 종류의 공연을 가장 즐기시나요? 그리고 그 이유는 무엇인가요?"
+  },
+  {
+    "id": 4,
+    "text": "I'd like to give you a situation and ask you to act it out. You want to buy two tickets to a concert. Call the ticket office and ask three or four questions about buying the tickets.",
+    "hint": "role-play, concert tickets, ticket office questions",
+    "translation": "상황을 드릴 테니 역할극으로 답해 주세요. 콘서트 티켓 두 장을 사고 싶습니다. 매표소에 전화해서 티켓 구매에 관해 3~4가지 질문을 해 주세요."
+  },
+  {
+    "id": 5,
+    "text": "I'm sorry, but there is a problem I want you to resolve. You are supposed to go to a concert with your friend, but you can't because you are very sick. Call your friend, explain the situation, and give two or three alternatives.",
+    "hint": "problem solving, cancel plan, alternatives",
+    "translation": "해결해 주셨으면 하는 문제가 있습니다. 친구와 콘서트에 가기로 했지만 몸이 너무 아파서 갈 수 없습니다. 친구에게 전화해 상황을 설명하고 대안 2~3가지를 제시해 주세요."
+  },
+  {
+    "id": 6,
+    "text": "Have you ever been in a situation where you had to cancel a plan at the last minute because something suddenly came up? What was the problem? And how did you deal with the situation?",
+    "hint": "last-minute cancellation, problem, response",
+    "translation": "갑자기 일이 생겨서 마지막 순간에 약속을 취소해야 했던 적이 있나요? 어떤 문제였고, 그 상황을 어떻게 해결했나요?"
+  },
+  {
+    "id": 7,
+    "text": "What kind of plays or performances do you like to see? Why do you like to see those types of plays or performances?",
+    "hint": "favorite plays, performance types, reasons",
+    "translation": "어떤 종류의 연극이나 공연을 보는 것을 좋아하세요? 그런 종류의 연극이나 공연을 보는 것을 좋아하는 이유는 무엇인가요?"
+  },
+  {
+    "id": 8,
+    "text": "When did you start seeing plays or performances? How did you first become interested in going to see plays or performances?",
+    "hint": "when started, first interest, plays and performances",
+    "translation": "언제부터 연극이나 공연을 보기 시작하셨나요? 연극이나 공연을 보러 가는 것에 처음 관심을 갖게 된 계기는 무엇이었나요?"
+  },
+  {
+    "id": 9,
+    "text": "Tell me about a memorable performance or a play you've watched. What was it about? Why is it so memorable?",
+    "hint": "memorable performance, plot, reason",
+    "translation": "기억에 남는 공연이나 연극에 대해 이야기해 주세요. 어떤 내용이었나요? 왜 그렇게 기억에 남나요?"
   }
 ]
