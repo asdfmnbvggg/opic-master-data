@@ -1,20 +1,68 @@
-[
+﻿[
   {
     "id": 1,
     "text": "What kind of music do you listen to? Tell me about your favorite genre.",
     "hint": "music, listen to, favorite genre",
-    "translation": "어떤 음악을 듣나요? 가장 좋아하는 장르에 대해 말해 주세요."
+    "translation": "어떤 음악을 들으세요? 가장 좋아하는 장르에 대해 말해 주세요."
   },
   {
     "id": 2,
     "text": "Describe how music affects your mood or daily life.",
     "hint": "music, mood, daily life",
-    "translation": "음악이 당신의 기분이나 일상 생활에 어떻게 영향을 미치나요?"
+    "translation": "음악이 당신의 기분이나 일상생활에 어떻게 영향을 미치는지 설명해 주세요."
   },
   {
     "id": 3,
     "text": "Tell me about a concert or musical event you attended.",
     "hint": "concert, musical event, attended",
     "translation": "참석한 콘서트나 음악 이벤트에 대해 말해 주세요."
+  },
+  {
+    "id": 4,
+    "text": "You indicated in the survey that you listen to music. What type of music do you like listening to? Who is your favorite singer or composer?",
+    "hint": "music preference, favorite singer, favorite composer",
+    "translation": "설문 조사에서 음악을 듣는다고 응답하셨습니다. 어떤 종류의 음악을 즐겨 들으시나요? 가장 좋아하는 가수나 작곡가는 누구인가요?"
+  },
+  {
+    "id": 5,
+    "text": "How did you first get interested in listening to music? What kind of music did you listen to when you were a child? How has your taste in music changed over the years?",
+    "hint": "first interest, childhood music, taste changes",
+    "translation": "음악 듣기에 처음 관심을 갖게 된 계기는 무엇인가요? 어렸을 때는 어떤 음악을 들었나요? 시간이 흐르면서 음악 취향은 어떻게 변했나요?"
+  },
+  {
+    "id": 6,
+    "text": "Can you tell me about a time when you listened to some live music? Was it at a concert or a live cafe? How did you like it? Was it memorable?",
+    "hint": "live music, concert, live cafe, memorable experience",
+    "translation": "라이브 음악을 들었던 경험에 대해 이야기해 주시겠어요? 콘서트였나요, 아니면 라이브 카페였나요? 어땠어요? 기억에 남는 경험이었나요?"
+  },
+  {
+    "id": 7,
+    "text": "What kind of music do you listen to? Who is your favorite musician?",
+    "hint": "music type, favorite musician",
+    "translation": "어떤 종류의 음악을 들으세요? 가장 좋아하는 음악가는 누구인가요?"
+  },
+  {
+    "id": 8,
+    "text": "I play the violin in an orchestra. Ask me three or four questions about it.",
+    "hint": "orchestra, violin, question-making",
+    "translation": "저는 오케스트라에서 바이올린을 연주합니다. 그것에 대해 세네 가지 질문을 해주세요."
+  },
+  {
+    "id": 9,
+    "text": "You indicated in the survey that you listen to music. What type of music do you like listening to? Who is your favorite singer or composer?",
+    "hint": "survey response, favorite music type, singer, composer",
+    "translation": "설문 조사에서 음악을 듣는다고 응답하셨습니다. 어떤 종류의 음악을 즐겨 들으시나요? 가장 좋아하는 가수나 작곡가는 누구인가요?"
+  },
+  {
+    "id": 10,
+    "text": "How did you first get interested in listening to music? What kind of music did you listen to when you were a child? How has your taste in music changed over time?",
+    "hint": "interest in music, childhood listening, taste over time",
+    "translation": "음악 듣기에 처음 관심을 갖게 된 계기는 무엇인가요? 어렸을 때는 어떤 음악을 들었나요? 시간이 지나면서 음악 취향은 어떻게 변했나요?"
+  },
+  {
+    "id": 11,
+    "text": "Can you tell me about a time when you listened to some live music, how did you like it and what was it like? Was it memorable to you?",
+    "hint": "live music experience, impression, memorable",
+    "translation": "라이브 음악을 들었던 경험에 대해 이야기해 주시겠어요? 어땠고, 어떤 느낌이었나요? 기억에 남는 경험이었나요?"
   }
 ]
