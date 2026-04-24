@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": 1,
     "text": "Tell me about a movie you watched recently. What was it about?",
@@ -15,6 +15,36 @@
     "id": 3,
     "text": "Describe a movie theater experience you enjoyed.",
     "hint": "movie theater, experience, enjoyment",
-    "translation": "즐겼던 영화관 경험을 설명해 주세요."
+    "translation": "즐거웠던 영화관 경험을 설명해 주세요."
+  },
+  {
+    "id": 4,
+    "text": "What is your favorite kind of movie? Why do you like to watch these types of movies?",
+    "hint": "favorite genre, reasons, movie preference",
+    "translation": "어떤 종류의 영화를 좋아합니까? 왜 이런 종류의 영화를 좋아하시나요?"
+  },
+  {
+    "id": 5,
+    "text": "Tell me about your favorite actor or actress. Also, tell me about his or her recent news.",
+    "hint": "favorite actor, actress, recent news",
+    "translation": "좋아하는 배우나 배우에 대해 말씀해 주세요. 또한, 그의 최근 소식에 대해서도 전해주세요."
+  },
+  {
+    "id": 6,
+    "text": "Tell me about the last time you went to the movie theater. How was it? What did you do before and after going to the movie?",
+    "hint": "last theater visit, before and after, experience",
+    "translation": "마지막으로 영화관에 갔을 때에 대해 이야기해 주세요. 그거 어땠어? 영화 보러 가기 전과 후에 무엇을 하셨나요?"
+  },
+  {
+    "id": 7,
+    "text": "What is your favorite kind of movie? Why do you like to watch those types of movies?",
+    "hint": "favorite movie genre, reason, watching habits",
+    "translation": "가장 좋아하는 영화 장르는 무엇인가요? 그런 종류의 영화를 보는 것을 좋아하는 이유는 무엇인가요?"
+  },
+  {
+    "id": 8,
+    "text": "I also enjoy watching movies. Ask 3 or 4 questions about the movies I like to watch.",
+    "hint": "question-making, movie preferences, follow-up questions",
+    "translation": "저도 영화 보는 걸 좋아해요. 제가 좋아하는 영화에 대해 3~4가지 질문을 해보세요."
   }
 ]
