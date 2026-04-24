@@ -1,20 +1,32 @@
-[
+﻿[
   {
     "id": 1,
-    "text": "Tell me about a beach you visited recently. What did you do there?",
-    "hint": "beach, visit, activities",
-    "translation": "최근에 방문한 해변에 대해 말해 주세요. 그곳에서 무엇을 했나요?"
+    "text": "Tell me about the beach you like to go to. Where is it? What does it look like? How often do you go to that beach?",
+    "hint": "favorite beach, location, appearance, frequency",
+    "translation": "가고 싶은 해변에 대해 말해 주세요. 그게 어디에 있지요? 무엇처럼 보이나요? 그 해변에 얼마나 자주 가세요?"
   },
   {
     "id": 2,
-    "text": "Describe your favorite beach and why you like it.",
-    "hint": "favorite beach, description, reasons",
-    "translation": "가장 좋아하는 해변을 설명하고 왜 좋아하는지 말해 주세요."
+    "text": "When do you go to the beach? Who do you usually go to the beach with? What do you do when you are at the beach?",
+    "hint": "beach timing, companions, activities",
+    "translation": "해변에 언제 가세요? 보통 누구와 함께 해변에 가나요? 해변에 가면 무엇을 하나요?"
   },
   {
     "id": 3,
-    "text": "What activities do you enjoy doing at the beach?",
-    "hint": "activities, beach, enjoy",
-    "translation": "해변에서 즐겨 하는 활동은 무엇인가요?"
+    "text": "Tell me about a memorable trip to the beach. Where did you go? What did you do there? What made it so memorable?",
+    "hint": "memorable beach trip, destination, activities, reasons",
+    "translation": "기억에 남는 해변 여행에 대해 말해줘. 어디 갔다 왔어요? 거기서 뭐 했어요? 무엇이 그렇게 기억에 남을까요?"
+  },
+  {
+    "id": 4,
+    "text": "Tell me about a beach you like to go to. Where is it and what does it look like?",
+    "hint": "favorite beach, location, description",
+    "translation": "좋아하는 해변에 대해 이야기해 주세요. 어디에 있고 어떻게 생겼나요?"
+  },
+  {
+    "id": 5,
+    "text": "I also enjoy going to the beach. Ask me three or four questions about the beach I go to and why I like the beach.",
+    "hint": "question-making, beach preference, reasons",
+    "translation": "저도 해변에 가는 걸 좋아해요. 제가 가는 해변에 대해, 그리고 제가 그 해변을 좋아하는 이유에 대해 3~4가지 질문을 해주세요."
   }
 ]
