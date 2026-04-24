@@ -1,20 +1,38 @@
-[
+﻿[
   {
     "id": 1,
-    "text": "Tell me about a domestic trip you took. Where did you go?",
-    "hint": "domestic trip, destination, experience",
-    "translation": "다녀온 국내 여행에 대해 말해 주세요. 어디에 갔나요?"
+    "text": "You indicated in the survey that you enjoy traveling domestically. What is your favorite location, and why do you like that place?",
+    "hint": "favorite domestic location, reasons, preference",
+    "translation": "설문조사에서 국내 여행을 즐긴다고 하셨습니다. 당신이 가장 좋아하는 장소는 어디인가요? 그리고 왜 그곳을 좋아하나요?"
   },
   {
     "id": 2,
-    "text": "Describe a memorable place you visited in your country.",
-    "hint": "memorable, place, country",
-    "translation": "국내에서 방문했던 기억에 남는 장소를 설명해 주세요."
+    "text": "Tell me about a trip you took in your youth. Where did you go, and who did you go with? What did you do there?",
+    "hint": "trip in youth, destination, companions, activities",
+    "translation": "젊었을 때 갔던 여행에 대해 말해 주세요. 어디로 갔으며 누구와 함께 갔나요? 거기서 무엇을 하셨나요?"
   },
   {
     "id": 3,
-    "text": "How do you usually plan domestic travel?",
-    "hint": "plan, domestic travel, preparation",
-    "translation": "국내 여행을 보통 어떻게 계획하나요?"
+    "text": "Have you had any interesting or unforgettable experiences while you were traveling in your own country? Tell me about the experience in detail.",
+    "hint": "interesting experience, unforgettable moment, domestic travel, details",
+    "translation": "국내 여행하는 동안 흥미롭거나 잊을 수 없는 경험을 한 적이 있나요? 그 경험에 대해 자세히 말해 주세요."
+  },
+  {
+    "id": 4,
+    "text": "You travel domestically. Tell me about a place you like to visit. Describe the place, and also describe why you like to visit that place.",
+    "hint": "domestic travel, favorite place, description, reason",
+    "translation": "당신은 국내 여행을 즐기시는군요. 가장 좋아하는 여행지에 대해 이야기해 주세요. 그곳을 묘사해 주시고, 왜 그곳을 좋아하는지도 설명해 주세요."
+  },
+  {
+    "id": 5,
+    "text": "Tell me about a trip you took in your childhood. Where did you go? Who did you go with? What did you do there?",
+    "hint": "childhood trip, destination, companion, activity",
+    "translation": "어린 시절 여행에 대해 이야기해 주세요. 어디에 갔었나요? 누구와 함께 갔었나요? 거기서 무엇을 했나요?"
+  },
+  {
+    "id": 6,
+    "text": "Tell me about a memorable or an unforgettable thing when you traveled in your country. What happened? What made the experience so memorable?",
+    "hint": "memorable event, unforgettable experience, domestic travel, details",
+    "translation": "국내를 여행하면서 기억에 남는 일이나 잊을 수 없는 일에 대해 이야기해 주세요. 무슨 일이 있었나요? 무엇이 그 경험을 그렇게 기억에 남게 만들었나요?"
   }
 ]
