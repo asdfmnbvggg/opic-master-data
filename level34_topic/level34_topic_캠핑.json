@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "id": 1,
     "text": "Tell me about a camping trip you went on. What did you do?",
     "hint": "camping trip, activities, experience",
-    "translation": "다녀온 캠핑 여행에 대해 말해 주세요. 무엇을 했나요?"
+    "translation": "캠핑 여행 경험에 대해 말해 주세요. 무엇을 했나요?"
   },
   {
     "id": 2,
@@ -16,5 +16,35 @@
     "text": "Describe the campsite and the surroundings during your camping experience.",
     "hint": "campsite, surroundings, description",
     "translation": "캠핑 경험 중 캠핑장과 주변 환경을 설명해 주세요."
+  },
+  {
+    "id": 4,
+    "text": "Where do you enjoy going camping? Describe the campground you go to in as much detail as you can.",
+    "hint": "campground, location, detailed description",
+    "translation": "어디로 캠핑 가는 것을 좋아하나요? 당신이 가는 캠핑장을 가능한 한 자세히 설명해 주세요."
+  },
+  {
+    "id": 5,
+    "text": "When do you usually go camping? Who do you go camping with? What do you like to do on a camping trip?",
+    "hint": "when camping, companions, activities",
+    "translation": "보통 언제 캠핑을 가나요? 누구와 함께 가나요? 캠핑 여행에서 무엇을 하는 것을 좋아하나요?"
+  },
+  {
+    "id": 6,
+    "text": "When did you first start camping? How did you first become interested in camping?",
+    "hint": "first camping, interest, background",
+    "translation": "언제 처음 캠핑을 시작했나요? 캠핑에 처음 관심을 갖게 된 계기는 무엇인가요?"
+  },
+  {
+    "id": 7,
+    "text": "I'd like to give you a situation and ask you to act it out. You are camping and you see a child crying. Ask the child three or four questions to know the situation.",
+    "hint": "role-play, child crying, situation questions",
+    "translation": "상황을 하나 제시하고 여러분이 직접 연기해 보시도록 하겠습니다. 캠핑을 갔는데 아이가 울고 있는 것을 보았습니다. 아이에게 세네 가지 질문을 해서 상황을 파악해 보세요."
+  },
+  {
+    "id": 8,
+    "text": "I'm sorry, but there is a problem I need you to resolve. You just learned that the child is lost and cannot find his parents. Call the campground security office, discuss the situation, and suggest two or three solutions.",
+    "hint": "role-play, lost child, call security office, solutions",
+    "translation": "죄송하지만, 해결해 주셔야 할 문제가 있습니다. 아이가 길을 잃어 부모를 찾지 못하고 있다는 소식을 방금 들었습니다. 캠핑장 보안실에 전화해서 상황을 설명하고 두세 가지 해결책을 제시해 주세요."
   }
 ]
