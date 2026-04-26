@@ -1,20 +1,44 @@
-[
+﻿[
   {
     "id": 1,
     "text": "Tell me about your neighbors. What are they like?",
     "hint": "neighbors, description, relationships",
-    "translation": "당신의 이웃에 대해 말해 주세요. 그들은 어떤가요?"
+    "translation": "당신의 이웃에 대해 말해 주세요. 어떤 사람들인가요?"
   },
   {
     "id": 2,
     "text": "How often do you interact with your neighbors?",
     "hint": "interaction, frequency, neighbors",
-    "translation": "이웃과 얼마나 자주 상호작용하나요?"
+    "translation": "이웃과 얼마나 자주 교류하나요?"
   },
   {
     "id": 3,
     "text": "Describe a positive experience you've had with a neighbor.",
     "hint": "positive, experience, neighbor",
-    "translation": "이웃과 있었던 긍정적인 경험을 설명해 주세요."
+    "translation": "이웃과 있었던 좋은 경험을 설명해 주세요."
+  },
+  {
+    "id": 4,
+    "text": "You said you live in an apartment. Tell me about your neighborhood. Where is it, and what is it like?",
+    "hint": "apartment, neighborhood, location, description",
+    "translation": "아파트에 산다고 하셨는데요. 동네에 대해 말해 주세요. 어디에 있고, 어떤 분위기인가요?"
+  },
+  {
+    "id": 5,
+    "text": "Tell me about your neighbors. Who are they, and what do you usually do with them?",
+    "hint": "neighbors, who they are, activities together",
+    "translation": "이웃에 대해 말해 주세요. 어떤 사람들이고, 보통 함께 무엇을 하나요?"
+  },
+  {
+    "id": 6,
+    "text": "Tell me about a memorable experience in your neighborhood. What happened?",
+    "hint": "memorable experience, neighborhood, event",
+    "translation": "동네에서 있었던 기억에 남는 경험을 말해 주세요. 무슨 일이 있었나요?"
+  },
+  {
+    "id": 7,
+    "text": "How has your neighborhood changed since you were young? What is similar, and what is different?",
+    "hint": "change over time, similarities, differences",
+    "translation": "어릴 때와 비교해서 동네가 어떻게 변했나요? 비슷한 점과 다른 점은 무엇인가요?"
   }
 ]
