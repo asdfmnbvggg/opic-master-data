@@ -1,20 +1,74 @@
-[
+﻿[
   {
     "id": 1,
-    "text": "Tell me about a mountain you have climbed or visited.",
-    "hint": "mountain, climbed, visited",
-    "translation": "등반했거나 방문한 산에 대해 말해 주세요."
+    "text": "Do you enjoy hiking? Tell me about your usual hiking routine.",
+    "hint": "hiking, routine, enjoyment",
+    "translation": "등산이나 하이킹을 즐기시나요? 평소 루틴을 말해 주세요."
   },
   {
     "id": 2,
-    "text": "What do you enjoy most about spending time in the mountains?",
-    "hint": "enjoy, mountains, nature",
-    "translation": "산에서 시간을 보낼 때 가장 즐기는 것은 무엇인가요?"
+    "text": "Describe your favorite mountain or hiking course and tell me why you like it.",
+    "hint": "favorite mountain, hiking course, reason",
+    "translation": "가장 좋아하는 산이나 하이킹 코스를 설명하고, 왜 좋아하는지 말해 주세요."
   },
   {
     "id": 3,
-    "text": "Describe the hiking trail or path you took in the mountains.",
-    "hint": "hiking trail, path, description",
-    "translation": "산에서 걷던 등산로를 설명해 주세요."
+    "text": "How do you feel after hiking, and how often do you go?",
+    "hint": "feelings, frequency, hiking",
+    "translation": "등산하고 나면 기분이 어떤가요? 그리고 얼마나 자주 가나요?"
+  },
+  {
+    "id": 4,
+    "text": "Where do you usually go hiking? Where is that place? Please describe it simply.",
+    "hint": "hiking place, location, description",
+    "translation": "보통 어디로 등산하러 가나요? 그곳은 어디에 있나요? 간단하게 설명해 주세요."
+  },
+  {
+    "id": 5,
+    "text": "Tell me about a memorable moment during hiking. What happened? Why do you remember it?",
+    "hint": "memorable hiking moment, event, reason",
+    "translation": "등산 중 기억에 남는 순간을 말해 주세요. 무슨 일이 있었나요? 왜 기억에 남나요?"
+  },
+  {
+    "id": 6,
+    "text": "You said you like hiking. What are the good points of hiking for your body and mind?",
+    "hint": "benefits, body, mind, hiking",
+    "translation": "등산을 좋아한다고 하셨는데요. 몸과 마음에 어떤 좋은 점이 있나요?"
+  },
+  {
+    "id": 7,
+    "text": "When you go hiking, what do you prepare? How do you stay safe on the trail?",
+    "hint": "preparation, safety, trail",
+    "translation": "등산 갈 때 무엇을 준비하나요? 산길에서 안전하게 걷기 위해 어떻게 하나요?"
+  },
+  {
+    "id": 8,
+    "text": "Why do you like hiking? When did you start liking it? How do you feel after coming down the mountain?",
+    "hint": "hiking reasons, start, feelings",
+    "translation": "왜 등산을 좋아하나요? 언제부터 좋아하게 되었나요? 산에서 내려온 뒤 기분은 어떤가요?"
+  },
+  {
+    "id": 9,
+    "text": "Tell me about the most interesting mountain or trail you have visited. Where was it, and why was it interesting?",
+    "hint": "interesting mountain, trail, reason",
+    "translation": "가본 곳 중 가장 흥미로웠던 산이나 코스를 말해 주세요. 어디였고, 왜 흥미로웠나요?"
+  },
+  {
+    "id": 10,
+    "text": "How did you start hiking for the first time? What made you keep hiking?",
+    "hint": "first start, motivation, habit",
+    "translation": "처음 등산을 시작한 계기는 무엇인가요? 계속하게 된 이유는 무엇인가요?"
+  },
+  {
+    "id": 11,
+    "text": "How long is your usual hike, and how much time does it take? Please tell me your hiking routine.",
+    "hint": "distance, time, hiking routine",
+    "translation": "보통 등산 코스는 어느 정도 길이이고, 시간이 얼마나 걸리나요? 평소 등산 루틴을 말해 주세요."
+  },
+  {
+    "id": 12,
+    "text": "What do you usually wear for hiking? Please tell me about your shoes and clothes.",
+    "hint": "hiking outfit, shoes, clothes",
+    "translation": "등산할 때 보통 어떤 옷을 입나요? 신발과 복장에 대해 말해 주세요."
   }
 ]
