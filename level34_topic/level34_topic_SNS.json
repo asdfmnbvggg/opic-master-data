@@ -1,38 +1,38 @@
 ﻿[
-  {
-    "id": 1,
-    "text": "Which social media platforms do you use most often?",
-    "hint": "social media, platforms, use",
-    "translation": "어떤 SNS 플랫폼을 가장 자주 사용하나요?"
-  },
-  {
-    "id": 2,
-    "text": "How does social media affect your daily life?",
-    "hint": "social media, daily life, effect",
-    "translation": "SNS가 당신의 일상에 어떤 영향을 주나요?"
-  },
-  {
-    "id": 3,
-    "text": "Describe a positive experience you had using social media.",
-    "hint": "positive experience, social media",
-    "translation": "SNS를 사용하면서 있었던 좋은 경험을 설명해 주세요."
-  },
-  {
-    "id": 4,
-    "text": "Which SNS app do you use the most? How often do you use it, and why do you like it?",
-    "hint": "favorite SNS app, frequency, reason",
-    "translation": "가장 자주 쓰는 SNS 앱은 무엇인가요? 얼마나 자주 사용하고, 왜 좋아하나요?"
-  },
-  {
-    "id": 5,
-    "text": "What device do you usually use for SNS, like your phone or tablet? Please describe how you use it.",
-    "hint": "device, phone, tablet, SNS usage",
-    "translation": "SNS 할 때 보통 어떤 기기(휴대폰, 태블릿 등)를 사용하나요? 어떻게 사용하는지 말해 주세요."
-  },
-  {
-    "id": 6,
-    "text": "When did you first start using SNS? What did you do at that time, and what was your first impression?",
-    "hint": "first SNS use, early activity, first impression",
-    "translation": "SNS를 처음 사용한 때는 언제인가요? 그때 무엇을 했고, 첫인상은 어땠나요?"
-  }
+    {
+        "id":  1,
+        "text":  "Which social media platforms do you use most often?",
+        "hint":  "social, media, platforms, post, comment, upload, followers",
+        "translation":  "어떤 SNS 플랫폼을 가장 자주 사용하나요?"
+    },
+    {
+        "id":  2,
+        "text":  "How does social media affect your daily life?",
+        "hint":  "social, media, affect, daily, post, comment, upload, followers",
+        "translation":  "SNS가 당신의 일상에 어떤 영향을 주나요?"
+    },
+    {
+        "id":  3,
+        "text":  "Describe a positive experience you had using social media.",
+        "hint":  "describe, positive, experience, using, post, comment, upload, followers",
+        "translation":  "SNS를 사용하면서 있었던 좋은 경험을 설명해 주세요."
+    },
+    {
+        "id":  4,
+        "text":  "Which SNS app do you use the most? How often do you use it, and why do you like it?",
+        "hint":  "reason, frequency, post, comment, upload, followers",
+        "translation":  "가장 자주 쓰는 SNS 앱은 무엇인가요? 얼마나 자주 사용하고, 왜 좋아하나요?"
+    },
+    {
+        "id":  5,
+        "text":  "What device do you usually use for SNS, like your phone or tablet? Please describe how you use it.",
+        "hint":  "device, phone, tablet, describe, post, comment, upload, followers",
+        "translation":  "SNS 할 때 보통 어떤 기기(휴대폰, 태블릿 등)를 사용하나요? 어떻게 사용하는지 말해 주세요."
+    },
+    {
+        "id":  6,
+        "text":  "When did you first start using SNS? What did you do at that time, and what was your first impression?",
+        "hint":  "first, start, using, time, first time, post, comment, upload",
+        "translation":  "SNS를 처음 사용한 때는 언제인가요? 그때 무엇을 했고, 첫인상은 어땠나요?"
+    }
 ]

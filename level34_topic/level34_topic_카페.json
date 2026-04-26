@@ -1,50 +1,50 @@
 ﻿[
-  {
-    "id": 1,
-    "text": "Tell me about your favorite cafe. What makes it special to you?",
-    "hint": "favorite, cafe, special, reason",
-    "translation": "가장 좋아하는 카페에 대해 말해 주세요. 그곳이 당신에게 특별한 이유는 무엇인가요?"
-  },
-  {
-    "id": 2,
-    "text": "Describe the atmosphere and interior of your favorite cafe.",
-    "hint": "atmosphere, interior, description, details",
-    "translation": "가장 좋아하는 카페의 분위기와 인테리어를 설명해 주세요."
-  },
-  {
-    "id": 3,
-    "text": "Tell me about a memorable experience you had at a cafe.",
-    "hint": "memorable, experience, cafe, story",
-    "translation": "카페에서 있었던 기억에 남는 경험에 대해 말해 주세요."
-  },
-  {
-    "id": 4,
-    "text": "Tell me about the cafe you often go to. What does it look like? What is special about the cafe?",
-    "hint": "frequent cafe, appearance, special points",
-    "translation": "자주 가는 카페에 대해 이야기해 주세요. 어떻게 생겼나요? 그 카페의 특별한 점은 무엇인가요?"
-  },
-  {
-    "id": 5,
-    "text": "When you go to a cafe, what do you usually do there? Do you read or do you eat something?",
-    "hint": "cafe routine, reading, eating",
-    "translation": "카페에 가면 보통 뭘 하세요? 책을 읽으시나요, 아니면 뭔가를 드시나요?"
-  },
-  {
-    "id": 6,
-    "text": "Tell me about the first time you went to a cafe. When was it, and how did you like it?",
-    "hint": "first cafe visit, time, impression",
-    "translation": "카페에 처음 갔던 때에 대해 이야기해 주세요. 언제였고, 어땠나요?"
-  },
-  {
-    "id": 7,
-    "text": "Tell me about the cafes or coffee shops in your country. Please tell me about them in as much detail as you can.",
-    "hint": "cafes in your country, detailed description",
-    "translation": "당신 나라의 카페나 커피숍에 대해 알려주세요. 가능한 한 자세히 알려주세요."
-  },
-  {
-    "id": 8,
-    "text": "I work at a cafe. Ask me three or four questions about the cafe and what I do there.",
-    "hint": "question-making, cafe work, follow-up questions",
-    "translation": "저는 카페에서 일합니다. 카페와 제가 거기서 하는 일에 대해 서너 가지 질문을 해 주세요."
-  }
+    {
+        "id":  1,
+        "text":  "Tell me about your favorite cafe. What makes it special to you?",
+        "hint":  "favorite, cafe, makes, special, coffee, dessert, menu, atmosphere",
+        "translation":  "가장 좋아하는 카페에 대해 말해 주세요. 그곳이 당신에게 특별한 이유는 무엇인가요?"
+    },
+    {
+        "id":  2,
+        "text":  "Describe the atmosphere and interior of your favorite cafe.",
+        "hint":  "describe, atmosphere, interior, favorite, coffee, dessert, menu",
+        "translation":  "가장 좋아하는 카페의 분위기와 인테리어를 설명해 주세요."
+    },
+    {
+        "id":  3,
+        "text":  "Tell me about a memorable experience you had at a cafe.",
+        "hint":  "memorable, experience, cafe, coffee, dessert, menu, atmosphere",
+        "translation":  "카페에서 있었던 기억에 남는 경험에 대해 말해 주세요."
+    },
+    {
+        "id":  4,
+        "text":  "Tell me about the cafe you often go to. What does it look like? What is special about the cafe?",
+        "hint":  "cafe, look, special, coffee, dessert, menu, atmosphere",
+        "translation":  "자주 가는 카페에 대해 이야기해 주세요. 어떻게 생겼나요? 그 카페의 특별한 점은 무엇인가요?"
+    },
+    {
+        "id":  5,
+        "text":  "When you go to a cafe, what do you usually do there? Do you read or do you eat something?",
+        "hint":  "cafe, read, something, coffee, dessert, menu, atmosphere",
+        "translation":  "카페에 가면 보통 뭘 하세요? 책을 읽으시나요, 아니면 뭔가를 드시나요?"
+    },
+    {
+        "id":  6,
+        "text":  "Tell me about the first time you went to a cafe. When was it, and how did you like it?",
+        "hint":  "first, time, went, cafe, first time, coffee, dessert, menu",
+        "translation":  "카페에 처음 갔던 때에 대해 이야기해 주세요. 언제였고, 어땠나요?"
+    },
+    {
+        "id":  7,
+        "text":  "Tell me about the cafes or coffee shops in your country. Please tell me about them in as much detail as you can.",
+        "hint":  "cafes, coffee, shops, country, dessert, menu, atmosphere",
+        "translation":  "당신 나라의 카페나 커피숍에 대해 알려주세요. 가능한 한 자세히 알려주세요."
+    },
+    {
+        "id":  8,
+        "text":  "I work at a cafe. Ask me three or four questions about the cafe and what I do there.",
+        "hint":  "work, cafe, three, four, coffee, dessert, menu, atmosphere",
+        "translation":  "저는 카페에서 일합니다. 카페와 제가 거기서 하는 일에 대해 서너 가지 질문을 해 주세요."
+    }
 ]

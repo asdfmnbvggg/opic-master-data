@@ -1,50 +1,50 @@
 ﻿[
-  {
-    "id": 1,
-    "text": "Describe your house to me. What does it look like? What types of rooms does it have? Also, tell me about your favorite room.",
-    "hint": "house description, room types, favorite room",
-    "translation": "당신의 집을 설명해 주세요. 어떻게 생겼나요? 어떤 종류의 방이 있나요? 또한 가장 좋아하는 방에 대해서도 알려주세요."
-  },
-  {
-    "id": 2,
-    "text": "Tell me about your house. What type of rooms are there? What is your favorite room?",
-    "hint": "house, room types, favorite room",
-    "translation": "집에 대해 이야기해 주세요. 어떤 방들이 있나요? 가장 좋아하는 방은 어디인가요?"
-  },
-  {
-    "id": 3,
-    "text": "I live in an apartment in the US. Ask me three or four questions about my apartment.",
-    "hint": "apartment, question-making, 3 to 4 questions",
-    "translation": "저는 미국에 있는 아파트에 살고 있습니다. 제 아파트에 대해 세네 가지 질문을 해주세요."
-  },
-  {
-    "id": 4,
-    "text": "What activities do you usually do when you are at home? What do you do on weekdays, and what do you do on weekends?",
-    "hint": "home activities, weekday routine, weekend routine",
-    "translation": "집에 있을 때 주로 어떤 활동을 하시나요? 평일에는 무엇을 하고 주말에는 무엇을 하나요?"
-  },
-  {
-    "id": 5,
-    "text": "Tell me about the house you lived in when you were a child. How is it different from the house you live in now?",
-    "hint": "childhood home, comparison, current home",
-    "translation": "어렸을 때 살았던 집에 대해 말해 주세요. 지금 살고 있는 집과 어떻게 다른가요?"
-  },
-  {
-    "id": 6,
-    "text": "I would like to know about your house. How many rooms are there, and tell me about your favorite room.",
-    "hint": "number of rooms, favorite room, house",
-    "translation": "저는 당신의 집에 대해 알고 싶어요. 방은 몇 개이고, 가장 좋아하는 방은 어디인지 말씀해 주세요."
-  },
-  {
-    "id": 7,
-    "text": "Tell me about some problems you have experienced in your house. Has something been broken? Or did someone you lived with not cooperate well with you?",
-    "hint": "house problems, broken items, cohabitation issues",
-    "translation": "집에서 겪었던 문제점들에 대해 이야기해 주세요. 혹시 물건이 고장난 적이 있나요? 아니면 함께 살던 사람이 협조적이지 않았던 적이 있나요?"
-  },
-  {
-    "id": 8,
-    "text": "Tell me about one of the problems you mentioned above. What was the problem, and how did you deal with it?",
-    "hint": "problem detail, resolution, coping",
-    "translation": "위에서 언급하신 문제 중 하나에 대해 말씀해 주시겠어요? 어떤 문제였고, 어떻게 해결하셨나요?"
-  }
+    {
+        "id":  1,
+        "text":  "Describe your house to me. What does it look like? What types of rooms does it have? Also, tell me about your favorite room.",
+        "hint":  "describe, house, look, rooms, favorite, room, bedroom, living room",
+        "translation":  "당신의 집을 설명해 주세요. 어떻게 생겼나요? 어떤 종류의 방이 있나요? 또한 가장 좋아하는 방에 대해서도 알려주세요."
+    },
+    {
+        "id":  2,
+        "text":  "Tell me about your house. What type of rooms are there? What is your favorite room?",
+        "hint":  "house, type, rooms, favorite, room, bedroom, living room, closet",
+        "translation":  "집에 대해 이야기해 주세요. 어떤 방들이 있나요? 가장 좋아하는 방은 어디인가요?"
+    },
+    {
+        "id":  3,
+        "text":  "I live in an apartment in the US. Ask me three or four questions about my apartment.",
+        "hint":  "live, apartment, three, four, room, bedroom, living room, closet",
+        "translation":  "저는 미국에 있는 아파트에 살고 있습니다. 제 아파트에 대해 세네 가지 질문을 해주세요."
+    },
+    {
+        "id":  4,
+        "text":  "What activities do you usually do when you are at home? What do you do on weekdays, and what do you do on weekends?",
+        "hint":  "activities, home, weekdays, weekends, room, bedroom, living room, closet",
+        "translation":  "집에 있을 때 주로 어떤 활동을 하시나요? 평일에는 무엇을 하고 주말에는 무엇을 하나요?"
+    },
+    {
+        "id":  5,
+        "text":  "Tell me about the house you lived in when you were a child. How is it different from the house you live in now?",
+        "hint":  "house, lived, child, different, room, bedroom, living room, closet",
+        "translation":  "어렸을 때 살았던 집에 대해 말해 주세요. 지금 살고 있는 집과 어떻게 다른가요?"
+    },
+    {
+        "id":  6,
+        "text":  "I would like to know about your house. How many rooms are there, and tell me about your favorite room.",
+        "hint":  "know, house, rooms, favorite, room, bedroom, living room, closet",
+        "translation":  "저는 당신의 집에 대해 알고 싶어요. 방은 몇 개이고, 가장 좋아하는 방은 어디인지 말씀해 주세요."
+    },
+    {
+        "id":  7,
+        "text":  "Tell me about some problems you have experienced in your house. Has something been broken? Or did someone you lived with not cooperate well with you?",
+        "hint":  "problems, experienced, house, something, room, bedroom, living room, closet",
+        "translation":  "집에서 겪었던 문제점들에 대해 이야기해 주세요. 혹시 물건이 고장난 적이 있나요? 아니면 함께 살던 사람이 협조적이지 않았던 적이 있나요?"
+    },
+    {
+        "id":  8,
+        "text":  "Tell me about one of the problems you mentioned above. What was the problem, and how did you deal with it?",
+        "hint":  "problems, mentioned, above, problem, details, example",
+        "translation":  "위에서 언급하신 문제 중 하나에 대해 말씀해 주시겠어요? 어떤 문제였고, 어떻게 해결하셨나요?"
+    }
 ]

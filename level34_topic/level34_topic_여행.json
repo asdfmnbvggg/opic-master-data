@@ -1,44 +1,44 @@
 ﻿[
-  {
-    "id": 1,
-    "text": "Tell me about a recent trip you took. Where did you go and what did you do?",
-    "hint": "trip, destination, activities, experience",
-    "translation": "최근에 다녀온 여행에 대해 말해 주세요. 어디로 갔고 무엇을 했나요?"
-  },
-  {
-    "id": 2,
-    "text": "Describe the most memorable place you visited during your trip and why it was special.",
-    "hint": "memorable, place, special, reason",
-    "translation": "여행 중 가장 기억에 남는 장소를 설명하고, 왜 특별했는지 말해 주세요."
-  },
-  {
-    "id": 3,
-    "text": "Compare traveling now to how you traveled in the past.",
-    "hint": "now, past, comparison, changes",
-    "translation": "지금의 여행과 과거의 여행을 비교해 보세요."
-  },
-  {
-    "id": 4,
-    "text": "What do you usually do before a trip? Please tell me how you prepare.",
-    "hint": "trip preparation, before travel, routine",
-    "translation": "여행 가기 전에 보통 무엇을 하나요? 어떻게 준비하는지 말해 주세요."
-  },
-  {
-    "id": 5,
-    "text": "Unexpected things can happen on a trip. Tell me about one unforgettable thing that happened to you.",
-    "hint": "unexpected event, unforgettable trip, story",
-    "translation": "여행 중에는 예상 못 한 일이 생길 수 있어요. 당신이 겪은 잊지 못할 일을 하나 말해 주세요."
-  },
-  {
-    "id": 6,
-    "text": "Talk about a trip you took in your childhood. Where did you go, and who did you go with?",
-    "hint": "childhood trip, destination, companion",
-    "translation": "어린 시절에 갔던 여행에 대해 말해 주세요. 어디로 갔고, 누구와 함께 갔나요?"
-  },
-  {
-    "id": 7,
-    "text": "What do you enjoy doing during a vacation? Please give some examples.",
-    "hint": "vacation activities, examples, preference",
-    "translation": "휴가 때 무엇을 하는 것을 좋아하나요? 예시를 들어 말해 주세요."
-  }
+    {
+        "id":  1,
+        "text":  "Tell me about a recent trip you took. Where did you go and what did you do?",
+        "hint":  "recent, trip, took, destination, plan, pack, photos",
+        "translation":  "최근에 다녀온 여행에 대해 말해 주세요. 어디로 갔고 무엇을 했나요?"
+    },
+    {
+        "id":  2,
+        "text":  "Describe the most memorable place you visited during your trip and why it was special.",
+        "hint":  "describe, memorable, place, visited, reason, destination, plan, pack",
+        "translation":  "여행 중 가장 기억에 남는 장소를 설명하고, 왜 특별했는지 말해 주세요."
+    },
+    {
+        "id":  3,
+        "text":  "Compare traveling now to how you traveled in the past.",
+        "hint":  "compare, traveling, traveled, past, destination, plan, pack, photos",
+        "translation":  "지금의 여행과 과거의 여행을 비교해 보세요."
+    },
+    {
+        "id":  4,
+        "text":  "What do you usually do before a trip? Please tell me how you prepare.",
+        "hint":  "before, trip, prepare, destination, plan, pack, photos",
+        "translation":  "여행 가기 전에 보통 무엇을 하나요? 어떻게 준비하는지 말해 주세요."
+    },
+    {
+        "id":  5,
+        "text":  "Unexpected things can happen on a trip. Tell me about one unforgettable thing that happened to you.",
+        "hint":  "unexpected, things, happen, trip, destination, plan, pack, photos",
+        "translation":  "여행 중에는 예상 못 한 일이 생길 수 있어요. 당신이 겪은 잊지 못할 일을 하나 말해 주세요."
+    },
+    {
+        "id":  6,
+        "text":  "Talk about a trip you took in your childhood. Where did you go, and who did you go with?",
+        "hint":  "talk, trip, took, childhood, companions, destination, plan, pack",
+        "translation":  "어린 시절에 갔던 여행에 대해 말해 주세요. 어디로 갔고, 누구와 함께 갔나요?"
+    },
+    {
+        "id":  7,
+        "text":  "What do you enjoy doing during a vacation? Please give some examples.",
+        "hint":  "enjoy, doing, vacation, give, destination, plan, pack, photos",
+        "translation":  "휴가 때 무엇을 하는 것을 좋아하나요? 예시를 들어 말해 주세요."
+    }
 ]
