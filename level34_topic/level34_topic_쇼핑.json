@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": 1,
     "text": "Where do you like to shop and what do you usually buy?",
@@ -16,5 +16,53 @@
     "text": "How do you compare online shopping and shopping in stores?",
     "hint": "online shopping, stores, comparison",
     "translation": "온라인 쇼핑과 매장 쇼핑을 어떻게 비교하나요?"
+  },
+  {
+    "id": 4,
+    "text": "Tell me about your recent grocery shopping. Where did you go, when did you go, and who did you go with?",
+    "hint": "recent grocery shopping, where, when, with whom",
+    "translation": "최근 장 본 경험을 말해 주세요. 어디에 갔고, 언제 갔고, 누구와 함께 갔나요?"
+  },
+  {
+    "id": 5,
+    "text": "When was the last time you went shopping? What did you buy, and was anything special?",
+    "hint": "last shopping, purchases, special point",
+    "translation": "마지막으로 쇼핑한 때는 언제인가요? 무엇을 샀고, 특별한 점이 있었나요?"
+  },
+  {
+    "id": 6,
+    "text": "These days, how has shopping changed compared to the past?",
+    "hint": "shopping trends, change, past vs now",
+    "translation": "요즘 쇼핑은 예전과 비교해서 어떻게 달라졌나요?"
+  },
+  {
+    "id": 7,
+    "text": "Have you had any problems while shopping, like long lines or missing items? Tell me about one.",
+    "hint": "shopping problems, long lines, missing items",
+    "translation": "쇼핑하면서 긴 줄이나 품절 같은 문제를 겪은 적이 있나요? 하나만 말해 주세요."
+  },
+  {
+    "id": 8,
+    "text": "Do you have a special shopping memory? What did you buy, and why was it memorable?",
+    "hint": "special memory, purchase, reason",
+    "translation": "특별히 기억에 남는 쇼핑 경험이 있나요? 무엇을 샀고 왜 기억에 남나요?"
+  },
+  {
+    "id": 9,
+    "text": "Let's talk about your shopping habits. How often do you shop, where do you go, and what do you buy most?",
+    "hint": "shopping habits, frequency, place, common items",
+    "translation": "쇼핑 습관에 대해 말해 주세요. 얼마나 자주 가고, 어디로 가고, 주로 무엇을 사나요?"
+  },
+  {
+    "id": 10,
+    "text": "How did you first become interested in shopping? Who did you usually go with in the beginning?",
+    "hint": "first interest, beginning, companion",
+    "translation": "처음 쇼핑에 관심을 갖게 된 계기는 무엇인가요? 처음에는 주로 누구와 함께 갔나요?"
+  },
+  {
+    "id": 11,
+    "text": "While shopping, did anything funny or exciting ever happen? Please tell me that story.",
+    "hint": "funny event, exciting event, shopping story",
+    "translation": "쇼핑 중 재미있거나 신나는 일이 있었나요? 그 이야기를 들려주세요."
   }
 ]
