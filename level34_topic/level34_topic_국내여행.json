@@ -34,5 +34,11 @@
     "text": "Tell me about a memorable or an unforgettable thing when you traveled in your country. What happened? What made the experience so memorable?",
     "hint": "memorable event, unforgettable experience, domestic travel, details",
     "translation": "국내를 여행하면서 기억에 남는 일이나 잊을 수 없는 일에 대해 이야기해 주세요. 무슨 일이 있었나요? 무엇이 그 경험을 그렇게 기억에 남게 만들었나요?"
+  },
+  {
+    "id": 7,
+    "text": "You said you enjoy domestic travel. Where do you like to go in your country, and why do you like that place?",
+    "hint": "domestic travel, favorite place, reason",
+    "translation": "국내 여행을 좋아한다고 하셨는데, 한국에서 어디 가는 걸 좋아하나요? 그리고 왜 그곳을 좋아하나요?"
   }
 ]

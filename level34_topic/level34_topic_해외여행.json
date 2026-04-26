@@ -52,5 +52,29 @@
     "text": "Tell me about a memorable experience you or someone you know experienced while traveling abroad. What happened? And why is the experience memorable?",
     "hint": "memorable experience, you or acquaintance, overseas travel",
     "translation": "해외여행 중 본인이나 지인이 겪었던 기억에 남는 경험을 이야기해 주세요. 무슨 일이 있었고, 왜 그 경험이 기억에 남나요?"
+  },
+  {
+    "id": 10,
+    "text": "When people travel abroad, what are they usually interested in? Why do you think those things are popular?",
+    "hint": "overseas travel, interests, popular reasons",
+    "translation": "사람들이 해외여행을 갈 때 보통 무엇에 관심이 많나요? 왜 그런 것들이 인기 있다고 생각하나요?"
+  },
+  {
+    "id": 11,
+    "text": "Tell me about a foreign country you visited when you were young. What do you still remember?",
+    "hint": "young age, foreign country, memories",
+    "translation": "어릴 때 갔던 외국에 대해 말해 주세요. 지금도 기억나는 점은 무엇인가요?"
+  },
+  {
+    "id": 12,
+    "text": "Tell me where tourists usually go on overseas trips and what they do there.",
+    "hint": "tourists, overseas trips, activities",
+    "translation": "관광객들이 해외여행에서 보통 어디를 가고, 거기서 무엇을 하는지 말해 주세요."
+  },
+  {
+    "id": 13,
+    "text": "Tell me about a memorable story from your overseas trip. What happened?",
+    "hint": "overseas trip, memorable story, event",
+    "translation": "해외여행 중 기억에 남는 이야기를 들려주세요. 무슨 일이 있었나요?"
   }
 ]
