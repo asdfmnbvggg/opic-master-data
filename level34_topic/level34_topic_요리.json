@@ -1,20 +1,50 @@
-[
+﻿[
   {
     "id": 1,
-    "text": "What kind of cooking do you enjoy doing? Tell me about a dish you like to make.",
-    "hint": "cooking, dish, ingredients, process",
-    "translation": "어떤 요리를 즐겨 하나요? 만들기 좋아하는 요리에 대해 말해 주세요."
+    "text": "Tell me about popular or traditional food in your country. Why is it popular or special?",
+    "hint": "popular food, traditional food, reason",
+    "translation": "당신 나라의 인기 음식이나 전통 음식에 대해 말해 주세요. 왜 그 음식이 인기 있거나 특별한가요?"
   },
   {
     "id": 2,
-    "text": "Describe how you prepare a traditional meal from your culture.",
-    "hint": "traditional, meal, preparation, culture",
-    "translation": "당신의 문화에서 전통적인 식사를 준비하는 방법을 설명해 주세요."
+    "text": "What do you usually eat in daily life? Please tell me about your usual meals.",
+    "hint": "daily meals, usual food, routine",
+    "translation": "평소에 주로 무엇을 드시나요? 일상 식사에 대해 말해 주세요."
   },
   {
     "id": 3,
-    "text": "How often do you cook at home, and what are your favorite recipes?",
-    "hint": "frequency, home cooking, recipes",
-    "translation": "집에서 얼마나 자주 요리하나요? 그리고 가장 좋아하는 레시피는 무엇인가요?"
+    "text": "Have you had a memorable experience while eating? What happened, and why do you remember it?",
+    "hint": "memorable eating experience, event, reason",
+    "translation": "음식을 먹다가 기억에 남는 경험이 있었나요? 어떤 일이었고, 왜 기억에 남나요?"
+  },
+  {
+    "id": 4,
+    "text": "Tell me about typical restaurants in your country. What are they like, and what food do they serve?",
+    "hint": "typical restaurants, atmosphere, menu",
+    "translation": "당신 나라의 일반적인 식당에 대해 말해 주세요. 어떤 분위기이고, 어떤 음식을 파나요?"
+  },
+  {
+    "id": 5,
+    "text": "When was the last time you ate out? Where did you go, who did you go with, and what did you eat?",
+    "hint": "last dining out, place, companion, menu",
+    "translation": "마지막으로 외식한 때는 언제인가요? 어디에 갔고, 누구와 갔고, 무엇을 먹었나요?"
+  },
+  {
+    "id": 6,
+    "text": "Tell me about a special dish you had at a restaurant. How was it? Was it memorable?",
+    "hint": "special dish, taste, memory",
+    "translation": "식당에서 먹은 특별한 요리에 대해 말해 주세요. 맛은 어땠나요? 기억에 남았나요?"
+  },
+  {
+    "id": 7,
+    "text": "Please explain simply how you prepare a meal, from start to finish.",
+    "hint": "meal preparation, steps, cooking process",
+    "translation": "식사를 준비하는 과정을 처음부터 끝까지 쉽게 설명해 주세요."
+  },
+  {
+    "id": 8,
+    "text": "How is food in your country similar to or different from food in other countries? Give simple examples.",
+    "hint": "comparison, similarities, differences, examples",
+    "translation": "당신 나라 음식은 다른 나라 음식과 어떤 점이 비슷하고 다른가요? 쉬운 예시를 들어 말해 주세요."
   }
 ]
