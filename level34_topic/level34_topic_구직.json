@@ -1,20 +1,26 @@
-[
+﻿[
   {
     "id": 1,
-    "text": "What kind of job are you looking for and why?",
-    "hint": "job search, job type, reasons",
-    "translation": "어떤 종류의 직장을 찾고 있나요? 그리고 그 이유는 무엇인가요?"
+    "text": "You said you are looking for a job. What kind of job do you want, and how are you preparing for it?",
+    "hint": "job type, preparation, job search",
+    "translation": "구직 중이라고 하셨는데요. 어떤 일을 원하고, 어떻게 준비하고 있나요?"
   },
   {
     "id": 2,
-    "text": "Describe the steps you take when applying for a job.",
-    "hint": "application steps, job search, preparation",
-    "translation": "직장에 지원할 때 어떤 단계를 거치나요?"
+    "text": "When you look for a job, do you feel stressed? How do you manage that stress?",
+    "hint": "job-seeking stress, coping, routine",
+    "translation": "구직할 때 스트레스를 받나요? 그 스트레스를 어떻게 관리하나요?"
   },
   {
     "id": 3,
-    "text": "What skills do you have that help you in a job search?",
-    "hint": "skills, strengths, job search",
-    "translation": "구직 활동에 도움이 되는 당신의 기술이나 강점은 무엇인가요?"
+    "text": "Have you had a job interview before? How was it? Please tell me about it.",
+    "hint": "job interview, experience, feelings",
+    "translation": "면접을 본 경험이 있나요? 어땠는지 이야기해 주세요."
+  },
+  {
+    "id": 4,
+    "text": "What do you usually do in a day for job searching, like checking postings or preparing your resume?",
+    "hint": "daily routine, job postings, resume",
+    "translation": "구직할 때 하루에 보통 무엇을 하나요? 채용 공고 확인이나 이력서 준비 같은 일을 말해 주세요."
   }
 ]
