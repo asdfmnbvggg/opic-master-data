@@ -1,20 +1,194 @@
 [
   {
     "id": 1,
-    "text": "Imagine you are a tour guide. Describe a famous landmark in your city.",
-    "hint": "tour guide, landmark, description, details",
-    "translation": "당신이 투어 가이드라고 상상해 보세요. 당신의 도시에서 유명한 랜드마크를 설명해 주세요."
+    "text": "I'd like to give you a situation and ask you to act it out. Your friend is planning to have a birthday party and asked you to help prepare the party. Call your friend and ask three or four questions about the party.",
+    "hint": "birthday party, date, time, place, guests, food, decorations",
+    "topicId": 1,
+    "topicTitle": "birthday party",
+    "translation": "상황을 알려드리고 행동해 주시기를 부탁드립니다. 당신의 친구가 생일 파티를 계획하고 있는데, 파티 준비를 도와달라고 부탁했어요. 친구에게 전화해서 파티에 대해 서너 가지 질문을 하세요."
   },
   {
     "id": 2,
-    "text": "Role-play a situation where you are ordering food at a restaurant. What would you say?",
-    "hint": "restaurant, ordering, dialogue, polite",
-    "translation": "레스토랑에서 음식을 주문하는 상황을 역할 놀이해 보세요. 무엇을 말할 건가요?"
+    "text": "I'm sorry, but there is a problem I need you to resolve. You were planning to go to your friend's birthday party, but something came up. Call your friend, explain that you cannot go to the party, and suggest two or three alternatives.",
+    "hint": "birthday party, something came up, apologize, cannot attend, send a gift, meet later",
+    "topicId": 1,
+    "topicTitle": "birthday party",
+    "translation": "죄송하지만 문제를 해결해 주셔야 할 것이 있습니다. 친구의 생일 파티에 가려고 했는데, 갑자기 일이 생겼어요. 친구에게 전화해서 파티에 갈 수 없다고 설명하고 두세 가지 대안을 제안하세요."
   },
   {
     "id": 3,
-    "text": "Pretend you are a customer complaining about a product. How would you express your dissatisfaction?",
-    "hint": "complaint, product, dissatisfaction, polite",
-    "translation": "제품에 대해 불만을 제기하는 고객이라고 상상해 보세요. 어떻게 불만을 표현할 건가요?"
+    "text": "That's the end of the situation. Have you ever been in a situation where you had to cancel something? Explain what happened.",
+    "hint": "cancel, plan, schedule, emergency, apologize, explain, experience",
+    "topicId": 1,
+    "topicTitle": "birthday party",
+    "translation": "그게 상황의 끝이야. 무언가를 취소해야 하는 상황에 처한 적이 있나요? 무슨 일이 있었는지 설명해 주세요."
+  },
+  {
+    "id": 4,
+    "text": "I'd like to give you a situation and ask you to act it out. You want to make a doctor's appointment. Call the doctor's office and ask three or four questions to help you make an appointment.",
+    "hint": "doctor's appointment, available time, symptoms, insurance, location, preparation",
+    "topicId": 2,
+    "topicTitle": "doctor's appointment",
+    "translation": "제가 상황 하나를 제시할 테니, 그 상황을 연기해 주시길 부탁드립니다. 당신은 의사 진료 예약을 하고 싶어합니다. 병원에 전화해서 예약을 도와줄 서너 가지 질문을 하세요."
+  },
+  {
+    "id": 5,
+    "text": "I'm sorry, but there is a problem I need you to resolve. You made an appointment with your doctor, but something came up, so you can't make it. Call the doctor's office. Explain the situation, and reschedule the appointment.",
+    "hint": "reschedule, appointment, conflict, apologize, available slots, next week",
+    "topicId": 2,
+    "topicTitle": "doctor's appointment",
+    "translation": "죄송하지만 해결해 주셔야 할 문제가 있습니다. 의사와 약속을 잡았지만 일이 생겨서 참석할 수 없습니다. 의사 사무실에 전화하세요. 상황을 설명하고 약속을 다시 잡으세요."
+  },
+  {
+    "id": 6,
+    "text": "That's the end of the situation. Tell me about an experience when you had to cancel an appointment you made. What happened? Why did you have to cancel the appointment?",
+    "hint": "appointment, cancel, reason, unexpected issue, contact, reschedule, result",
+    "topicId": 2,
+    "topicTitle": "doctor's appointment",
+    "translation": "그렇게 상황은 마무리됐습니다. 약속을 취소해야 했던 경험에 대해 이야기해 주세요. 무슨 일이 있었나요? 왜 약속을 취소해야 했나요?"
+  },
+  {
+    "id": 7,
+    "text": "I'd like to give you a situation and ask you to act it out. You want to rent a car for a week. Call the car rental company and ask three or four questions about renting a car.",
+    "hint": "rent a car, weekly rate, insurance, vehicle type, pickup, return",
+    "topicId": 3,
+    "topicTitle": "car rental",
+    "translation": "제가 상황 하나를 제시하고 여러분께 연기를 부탁드리겠습니다. 일주일 동안 차를 렌트하려고 합니다. 렌터카 회사에 전화해서 렌트에 대해 3~4가지 질문을 해보세요."
+  },
+  {
+    "id": 8,
+    "text": "I'm sorry but there's a problem I need you to resolve. You rented a car but there are some problems. Call the car rental company, explain the situation, and suggest two or three alternatives.",
+    "hint": "rental car, problem, engine, tire, replacement car, refund, repair",
+    "topicId": 3,
+    "topicTitle": "car rental",
+    "translation": "죄송하지만 해결해 주셔야 할 문제가 있습니다. 차량을 렌트하셨는데 문제가 생겼습니다. 렌터카 회사에 전화해서 상황을 설명하고 2~3가지 대안을 제시해 주세요."
+  },
+  {
+    "id": 9,
+    "text": "That's the end of the situation. Have you ever rented a car from a car rental company? What was the reason you rented a car? Tell me in detail everything about your experience renting the car.",
+    "hint": "rented a car, trip, business, reservation, pickup, cost, experience",
+    "topicId": 3,
+    "topicTitle": "car rental",
+    "translation": "상황은 여기까지입니다. 혹시 렌터카 회사에서 차를 빌려본 적 있으세요? 차를 빌린 이유는 무엇이었나요? 렌터카를 이용하면서 겪었던 모든 경험을 자세히 이야기해 주세요."
+  },
+  {
+    "id": 10,
+    "text": "I'd like to give you a situation and ask you to act it out. You are at a bank now because you want to open a bank account and get a credit card. Ask the bank teller three or four questions about opening a new account and getting a credit card.",
+    "hint": "bank account, credit card, documents, fees, interest rate, benefits",
+    "topicId": 4,
+    "topicTitle": "bank and credit card",
+    "translation": "제가 상황을 하나 제시하고 여러분께 연기를 부탁드리겠습니다. 여러분은 지금 은행에 가서 계좌를 개설하고 신용카드를 발급받으려고 합니다. 은행 직원에게 새 계좌 개설과 신용카드 발급에 대해 세네 가지 질문을 하세요."
+  },
+  {
+    "id": 11,
+    "text": "I'm sorry, but there is a problem I need you to resolve. You just found out that you left your credit card at a restaurant. Call the restaurant and explain the situation. Describe the table you sat at and the card you left. Then talk about how to get the card back.",
+    "hint": "lost credit card, restaurant, table, card type, identify, pick up, contact",
+    "topicId": 4,
+    "topicTitle": "bank and credit card",
+    "translation": "죄송하지만 문제가 생겼습니다. 방금 레스토랑에 신용카드를 두고 온 것을 알게 되셨습니다. 레스토랑에 전화해서 상황을 설명하세요. 앉았던 테이블과 두고 온 카드 종류를 자세히 알려주세요. 그리고 카드를 되찾는 방법에 대해 이야기해 보세요."
+  },
+  {
+    "id": 12,
+    "text": "That's the end of the situation. Have you ever had any problems at a bank? What happened? And how did you solve the problem?",
+    "hint": "bank problem, account, card, mistake, teller, customer service, solve",
+    "topicId": 4,
+    "topicTitle": "bank and credit card",
+    "translation": "상황은 이렇게 마무리됐습니다. 은행에서 문제가 생긴 적이 있으신가요? 무슨 일이 있었나요? 그리고 어떻게 해결하셨나요?"
+  },
+  {
+    "id": 13,
+    "text": "You want to find a new house to move into. Call a real estate agent and ask three or four questions about buying a house.",
+    "hint": "new house, real estate agent, price, location, rooms, neighborhood, move in",
+    "topicId": 5,
+    "topicTitle": "moving and housing",
+    "translation": "새 집으로 이사하고 싶으시군요. 부동산 중개인에게 전화해서 집 구매에 대해 3~4가지 질문을 해보세요."
+  },
+  {
+    "id": 14,
+    "text": "You just moved in but you found out that the window is broken. Call the management office and explain the situation. Give two or three solutions to the problem.",
+    "hint": "moved in, broken window, management office, repair, replace, maintenance, safety",
+    "topicId": 5,
+    "topicTitle": "moving and housing",
+    "translation": "이사 온 지 얼마 안 됐는데 창문이 깨져 있는 걸 발견했어요. 관리사무소에 전화해서 상황을 설명하세요. 문제 해결을 위한 2~3가지 방법을 제시하세요."
+  },
+  {
+    "id": 15,
+    "text": "Have you broken something in the house? What was the situation, and how did you solve the situation?",
+    "hint": "house, broke something, accident, damage, repair, replace, solution",
+    "topicId": 5,
+    "topicTitle": "moving and housing",
+    "translation": "집에서 뭔가를 부수셨나요? 어떤 상황이었고, 어떻게 해결하셨나요?"
+  },
+  {
+    "id": 16,
+    "text": "You are going to visit your friend who lives abroad. Call and ask three or four questions about the country, including the geography, to help you plan your trip.",
+    "hint": "friend abroad, country, geography, weather, transportation, places to visit",
+    "topicId": 6,
+    "topicTitle": "visiting a friend abroad",
+    "translation": "해외에 사는 친구를 방문할 예정이시군요. 전화를 걸어 그 나라의 지리를 포함해 여행 계획에 도움이 될 만한 3~4가지 질문을 해보세요."
+  },
+  {
+    "id": 17,
+    "text": "You are supposed to travel abroad and visit your friend. Something happened and you can't go. Call your friend, explain the situation, and suggest two or three alternatives.",
+    "hint": "travel abroad, cannot go, explain, postpone, video call, visit later",
+    "topicId": 6,
+    "topicTitle": "visiting a friend abroad",
+    "translation": "해외에 있는 친구를 만나러 갈 예정이었는데, 갑자기 일이 생겨서 갈 수 없게 되었습니다. 친구에게 전화해서 상황을 설명하고 2~3가지 대안을 제시해 보세요."
+  },
+  {
+    "id": 18,
+    "text": "That's the end of the situation. Have you ever traveled overseas? How is their geography different from the geography of your country?",
+    "hint": "overseas travel, geography, mountains, coast, climate, compare, different",
+    "topicId": 6,
+    "topicTitle": "visiting a friend abroad",
+    "translation": "상황은 이렇게 끝났습니다. 해외여행 가보신 적 있으세요? 그곳의 지리는 당신 나라의 지리와 어떻게 다른가요?"
+  },
+  {
+    "id": 19,
+    "text": "You are going on a trip and you need to stay at a hotel. Call the hotel and ask three or four questions about the hotel to help you decide whether you will stay at the hotel or not.",
+    "hint": "hotel, room rate, location, amenities, breakfast, check in, reservation",
+    "topicId": 7,
+    "topicTitle": "hotel",
+    "translation": "여행을 가는데 호텔에 묵어야 합니다. 호텔에 전화해서 호텔에 대해 세네 가지 질문을 하고, 그 호텔에 묵을지 말지 결정하는 데 도움을 받으세요."
+  },
+  {
+    "id": 20,
+    "text": "I'm sorry, but there is a problem I need you to resolve. You have just walked into your room after checking into the hotel, but your room has not been cleaned properly. Call the front desk and explain the situation. Give two or three alternatives to this problem.",
+    "hint": "hotel room, not clean, front desk, housekeeping, change rooms, refund, solution",
+    "topicId": 7,
+    "topicTitle": "hotel",
+    "translation": "죄송하지만, 해결해 주셔야 할 문제가 있습니다. 방금 호텔 체크인 후 객실에 들어가셨는데, 객실 청소가 제대로 되어 있지 않습니다. 프런트 데스크에 전화하셔서 상황을 설명하시고, 이 문제를 해결할 수 있는 두세 가지 방안을 제시해 주세요."
+  },
+  {
+    "id": 21,
+    "text": "It is the end of the situation. Tell me about a memorable experience you've had at a hotel. What happened, and why is it memorable?",
+    "hint": "hotel, memorable experience, service, room, view, problem, reason",
+    "topicId": 7,
+    "topicTitle": "hotel",
+    "translation": "이제 상황은 끝났으니, 호텔에서 겪었던 기억에 남는 경험에 대해 이야기해 주세요. 무슨 일이었고, 왜 기억에 남는가요?"
+  },
+  {
+    "id": 22,
+    "text": "I'd like to give you a situation and ask you to act it out. You want to get together with your friend on the weekend. Call your friend and ask when he or she can meet and what he or she wants to do.",
+    "hint": "friend, weekend, get together, meet, time, place, activity",
+    "topicId": 8,
+    "topicTitle": "weekend plans with a friend",
+    "translation": "상황 하나를 제시하고 여러분이 직접 연기해 보시도록 하겠습니다. 주말에 친구와 만나고 싶습니다. 친구에게 전화해서 언제 만날 수 있는지, 무엇을 하고 싶은지 물어보세요."
+  },
+  {
+    "id": 23,
+    "text": "I'm sorry, but there is a problem I need you to resolve. You cannot meet your friend at the place you planned on meeting. Call your friend, explain the situation, and give some suggestions.",
+    "hint": "friend, meeting place, cannot meet, explain, change location, meet later, suggestion",
+    "topicId": 8,
+    "topicTitle": "weekend plans with a friend",
+    "translation": "죄송하지만, 해결해 주셔야 할 문제가 있어요. 약속 장소에서 친구를 만날 수 없을 것 같아요. 친구에게 전화해서 상황을 설명하고 다른 방법을 제안해 보세요."
+  },
+  {
+    "id": 24,
+    "text": "That's the end of the situation. Have you ever had an experience when you had to change your plans in your free time? What happened, and why did you have to change those plans?",
+    "hint": "free time, change plans, schedule, reason, unexpected, alternative, experience",
+    "topicId": 8,
+    "topicTitle": "weekend plans with a friend",
+    "translation": "이것으로 상황은 마무리됩니다. 여가 시간에 계획을 바꿔야 했던 경험이 있으신가요? 무슨 일이 있었고, 왜 계획을 바꿔야 했나요?"
   }
 ]
