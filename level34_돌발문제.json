@@ -1,20 +1,66 @@
 [
   {
     "id": 1,
-    "text": "Imagine you are a tour guide. Describe a famous landmark in your city.",
-    "hint": "tour guide, landmark, description, details",
-    "translation": "당신이 투어 가이드라고 상상해 보세요. 당신의 도시에서 유명한 랜드마크를 설명해 주세요."
+    "text": "What do you usually do on the Internet? What is the website you most often visit?",
+    "hint": "Internet, usually, website, search, watch videos, shopping, social media",
+    "topicId": 1,
+    "topicTitle": "Internet",
+    "translation": "평소에 인터넷에서 무엇을 하세요? 가장 자주 방문하는 웹사이트는 어디인가요?"
   },
   {
     "id": 2,
-    "text": "Role-play a situation where you are ordering food at a restaurant. What would you say?",
-    "hint": "restaurant, ordering, dialogue, polite",
-    "translation": "레스토랑에서 음식을 주문하는 상황을 역할 놀이해 보세요. 무엇을 말할 건가요?"
+    "text": "I also use the Internet. Ask me three or four questions about the website I like to visit and also what I do on the Internet.",
+    "hint": "Internet, website, visit, favorite, online activity, ask questions",
+    "topicId": 1,
+    "topicTitle": "Internet",
+    "translation": "저도 인터넷을 사용합니다. 제가 자주 방문하는 웹사이트와 인터넷에서 하는 일에 대해 세네 가지 질문을 해주세요."
   },
   {
     "id": 3,
-    "text": "Pretend you are a customer complaining about a product. How would you express your dissatisfaction?",
-    "hint": "complaint, product, dissatisfaction, polite",
-    "translation": "제품에 대해 불만을 제기하는 고객이라고 상상해 보세요. 어떻게 불만을 표현할 건가요?"
+    "text": "Tell me about your country's geography. Are there any mountains, rivers, and lakes?",
+    "hint": "geography, country, mountains, rivers, lakes, land, nature",
+    "topicId": 2,
+    "topicTitle": "Geography",
+    "translation": "당신 나라의 지리에 대해 말해 주세요. 산, 강, 호수가 있나요?"
+  },
+  {
+    "id": 4,
+    "text": "I live in Canada. Ask me three or four questions about the geography in my country.",
+    "hint": "Canada, geography, mountains, rivers, lakes, weather, land, ask questions",
+    "topicId": 2,
+    "topicTitle": "Geography",
+    "translation": "저는 캐나다에 살고 있습니다. 제 나라의 지리에 대해 세네 가지 질문을 해주세요."
+  },
+  {
+    "id": 5,
+    "text": "Tell me about some phone calls you make with your friends or family. What do you usually talk about when you talk with them on the phone?",
+    "hint": "phone calls, friends, family, talk, daily life, plans, news",
+    "topicId": 3,
+    "topicTitle": "Phone Calls",
+    "translation": "친구나 가족과 통화할 때 어떤 이야기를 나누는지 말해 주세요. 전화 통화할 때 보통 무슨 이야기를 하세요?"
+  },
+  {
+    "id": 6,
+    "text": "I like to talk on the phone with my friends. Ask me three or four questions about my talking on the phone.",
+    "hint": "phone, friends, call, how often, topic, duration, ask questions",
+    "topicId": 3,
+    "topicTitle": "Phone Calls",
+    "translation": "저는 친구들과 전화 통화하는 것을 좋아합니다. 제 전화 통화에 대해 서너 가지 질문을 해주세요."
+  },
+  {
+    "id": 7,
+    "text": "Tell me about transportation in your country. What kinds of transportation are used?",
+    "hint": "transportation, country, bus, subway, train, taxi, car, public transit",
+    "topicId": 4,
+    "topicTitle": "Transportation",
+    "translation": "당신 나라의 교통 시스템에 대해 이야기해 주세요. 어떤 종류의 교통수단이 이용되나요?"
+  },
+  {
+    "id": 8,
+    "text": "I use different kinds of transportation to get around. Could you ask me three or four questions about transportation in my town?",
+    "hint": "transportation, town, bus, subway, traffic, commute, get around, ask questions",
+    "topicId": 4,
+    "topicTitle": "Transportation",
+    "translation": "저는 이동할 때 여러 가지 교통수단을 이용합니다. 제가 사는 동네의 교통수단에 대해 세네 가지 질문을 해주시겠어요?"
   }
 ]
