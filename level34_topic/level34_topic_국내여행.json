@@ -2,43 +2,43 @@
     {
         "id":  1,
         "text":  "You indicated in the survey that you enjoy traveling domestically. What is your favorite location, and why do you like that place?",
-        "hint":  "indicated, survey, enjoy, traveling, favorite, reason, destination, plan",
+        "hint":  "indicated(표시한), survey(설문), enjoy(즐기다), traveling(여행하기), favorite(가장 좋아하는), reason(이유), destination(목적지), plan(계획)",
         "translation":  "설문조사에서 국내 여행을 즐긴다고 하셨습니다. 당신이 가장 좋아하는 장소는 어디인가요? 그리고 왜 그곳을 좋아하나요?"
     },
     {
         "id":  2,
         "text":  "Tell me about a trip you took in your youth. Where did you go, and who did you go with? What did you do there?",
-        "hint":  "trip, took, youth, companions, destination, plan, pack, photos",
+        "hint":  "trip(여행), took(갔다), youth(청소년기), companions(동행자들), destination(목적지), plan(계획), pack(짐을 싸다), photos(사진들)",
         "translation":  "젊었을 때 갔던 여행에 대해 말해 주세요. 어디로 갔으며 누구와 함께 갔나요? 거기서 무엇을 하셨나요?"
     },
     {
         "id":  3,
         "text":  "Have you had any interesting or unforgettable experiences while you were traveling in your own country? Tell me about the experience in detail.",
-        "hint":  "interesting, unforgettable, experiences, traveling, destination, plan, pack, photos",
+        "hint":  "interesting(흥미로운), unforgettable(잊을 수 없는), experiences(경험들), traveling(여행하기), destination(목적지), plan(계획), pack(짐을 싸다), photos(사진들)",
         "translation":  "국내 여행하는 동안 흥미롭거나 잊을 수 없는 경험을 한 적이 있나요? 그 경험에 대해 자세히 말해 주세요."
     },
     {
         "id":  4,
         "text":  "You travel domestically. Tell me about a place you like to visit. Describe the place, and also describe why you like to visit that place.",
-        "hint":  "travel, domestically, place, visit, reason, destination, plan, pack",
+        "hint":  "travel(여행), domestically(국내에서), place(장소), visit(방문하다), reason(이유), destination(목적지), plan(계획), pack(짐을 싸다)",
         "translation":  "당신은 국내 여행을 즐기시는군요. 가장 좋아하는 여행지에 대해 이야기해 주세요. 그곳을 묘사해 주시고, 왜 그곳을 좋아하는지도 설명해 주세요."
     },
     {
         "id":  5,
         "text":  "Tell me about a trip you took in your childhood. Where did you go? Who did you go with? What did you do there?",
-        "hint":  "trip, took, childhood, companions, destination, plan, pack, photos",
+        "hint":  "trip(여행), took(갔다), childhood(어린 시절), companions(동행자들), destination(목적지), plan(계획), pack(짐을 싸다), photos(사진들)",
         "translation":  "어린 시절 여행에 대해 이야기해 주세요. 어디에 갔었나요? 누구와 함께 갔었나요? 거기서 무엇을 했나요?"
     },
     {
         "id":  6,
         "text":  "Tell me about a memorable or an unforgettable thing when you traveled in your country. What happened? What made the experience so memorable?",
-        "hint":  "memorable, unforgettable, thing, traveled, destination, plan, pack, photos",
+        "hint":  "memorable(기억에 남는), unforgettable(잊을 수 없는), thing(것), traveled(여행했다), destination(목적지), plan(계획), pack(짐을 싸다), photos(사진들)",
         "translation":  "국내를 여행하면서 기억에 남는 일이나 잊을 수 없는 일에 대해 이야기해 주세요. 무슨 일이 있었나요? 무엇이 그 경험을 그렇게 기억에 남게 만들었나요?"
     },
     {
         "id":  7,
         "text":  "You said you enjoy domestic travel. Where do you like to go in your country, and why do you like that place?",
-        "hint":  "enjoy, domestic, travel, country, reason, destination, plan, pack",
+        "hint":  "enjoy(즐기다), domestic(국내의), travel(여행), country(나라), reason(이유), destination(목적지), plan(계획), pack(짐을 싸다)",
         "translation":  "국내 여행을 좋아한다고 하셨는데, 한국에서 어디 가는 걸 좋아하나요? 그리고 왜 그곳을 좋아하나요?"
     }
 ]

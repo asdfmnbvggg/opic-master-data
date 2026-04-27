@@ -2,43 +2,43 @@
     {
         "id":  1,
         "text":  "Tell me about your neighbors. What are they like?",
-        "hint":  "neighbors, community, friendly, apartment complex",
+        "hint":  "neighbors(이웃들), community(공동체), friendly(친근한), apartment complex(아파트 단지)",
         "translation":  "당신의 이웃에 대해 말해 주세요. 어떤 사람들인가요?"
     },
     {
         "id":  2,
         "text":  "How often do you interact with your neighbors?",
-        "hint":  "interact, neighbors, frequency, community, friendly, apartment complex",
+        "hint":  "interact(교류하다), neighbors(이웃들), frequency(빈도), community(공동체), friendly(친근한), apartment complex(아파트 단지)",
         "translation":  "이웃과 얼마나 자주 교류하나요?"
     },
     {
         "id":  3,
         "text":  "Describe a positive experience you\u0027ve had with a neighbor.",
-        "hint":  "describe, positive, experience, neighbor, neighbors, community, friendly, apartment complex",
+        "hint":  "describe(설명하다), positive(긍정적인), experience(경험), neighbor(이웃), neighbors(이웃들), community(공동체), friendly(친근한), apartment complex(아파트 단지)",
         "translation":  "이웃과 있었던 좋은 경험을 설명해 주세요."
     },
     {
         "id":  4,
         "text":  "You said you live in an apartment. Tell me about your neighborhood. Where is it, and what is it like?",
-        "hint":  "live, apartment, neighborhood, neighbors, community, friendly, apartment complex",
+        "hint":  "live(살다), apartment(아파트), neighborhood(동네), neighbors(이웃들), community(공동체), friendly(친근한), apartment complex(아파트 단지)",
         "translation":  "아파트에 산다고 하셨는데요. 동네에 대해 말해 주세요. 어디에 있고, 어떤 분위기인가요?"
     },
     {
         "id":  5,
         "text":  "Tell me about your neighbors. Who are they, and what do you usually do with them?",
-        "hint":  "neighbors, community, friendly, apartment complex",
+        "hint":  "neighbors(이웃들), community(공동체), friendly(친근한), apartment complex(아파트 단지)",
         "translation":  "이웃에 대해 말해 주세요. 어떤 사람들이고, 보통 함께 무엇을 하나요?"
     },
     {
         "id":  6,
         "text":  "Tell me about a memorable experience in your neighborhood. What happened?",
-        "hint":  "memorable, experience, neighborhood, happened, neighbors, community, friendly, apartment complex",
+        "hint":  "memorable(기억에 남는), experience(경험), neighborhood(동네), happened(일어났다), neighbors(이웃들), community(공동체), friendly(친근한), apartment complex(아파트 단지)",
         "translation":  "동네에서 있었던 기억에 남는 경험을 말해 주세요. 무슨 일이 있었나요?"
     },
     {
         "id":  7,
         "text":  "How has your neighborhood changed since you were young? What is similar, and what is different?",
-        "hint":  "neighborhood, changed, since, young, neighbors, community, friendly, apartment complex",
+        "hint":  "neighborhood(동네), changed(바뀐), since(이후로), young(어린), neighbors(이웃들), community(공동체), friendly(친근한), apartment complex(아파트 단지)",
         "translation":  "어릴 때와 비교해서 동네가 어떻게 변했나요? 비슷한 점과 다른 점은 무엇인가요?"
     }
 ]

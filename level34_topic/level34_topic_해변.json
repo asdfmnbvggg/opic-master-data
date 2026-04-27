@@ -2,31 +2,31 @@
     {
         "id":  1,
         "text":  "Tell me about the beach you like to go to. Where is it? What does it look like? How often do you go to that beach?",
-        "hint":  "beach, look, frequency, sand, waves, sunset, swim",
+        "hint":  "beach(해변), look(모습), frequency(빈도), sand(모래), waves(파도), sunset(노을), swim(수영하다)",
         "translation":  "가고 싶은 해변에 대해 말해 주세요. 그게 어디에 있지요? 무엇처럼 보이나요? 그 해변에 얼마나 자주 가세요?"
     },
     {
         "id":  2,
         "text":  "When do you go to the beach? Who do you usually go to the beach with? What do you do when you are at the beach?",
-        "hint":  "beach, sand, waves, sunset, swim",
+        "hint":  "beach(해변), sand(모래), waves(파도), sunset(노을), swim(수영하다)",
         "translation":  "해변에 언제 가세요? 보통 누구와 함께 해변에 가나요? 해변에 가면 무엇을 하나요?"
     },
     {
         "id":  3,
         "text":  "Tell me about a memorable trip to the beach. Where did you go? What did you do there? What made it so memorable?",
-        "hint":  "memorable, trip, beach, made, destination, plan, pack, photos",
+        "hint":  "memorable(기억에 남는), trip(여행), beach(해변), made(만든), destination(목적지), plan(계획), pack(짐을 싸다), photos(사진들)",
         "translation":  "기억에 남는 해변 여행에 대해 말해줘. 어디 갔다 왔어요? 거기서 뭐 했어요? 무엇이 그렇게 기억에 남을까요?"
     },
     {
         "id":  4,
         "text":  "Tell me about a beach you like to go to. Where is it and what does it look like?",
-        "hint":  "beach, look, sand, waves, sunset, swim",
+        "hint":  "beach(해변), look(모습), sand(모래), waves(파도), sunset(노을), swim(수영하다)",
         "translation":  "좋아하는 해변에 대해 이야기해 주세요. 어디에 있고 어떻게 생겼나요?"
     },
     {
         "id":  5,
         "text":  "I also enjoy going to the beach. Ask me three or four questions about the beach I go to and why I like the beach.",
-        "hint":  "enjoy, going, beach, three, reason, sand, waves, sunset",
+        "hint":  "enjoy(즐기다), going(가는 것), beach(해변), three(세 가지), reason(이유), sand(모래), waves(파도), sunset(노을)",
         "translation":  "저도 해변에 가는 걸 좋아해요. 제가 가는 해변에 대해, 그리고 제가 그 해변을 좋아하는 이유에 대해 3~4가지 질문을 해주세요."
     }
 ]

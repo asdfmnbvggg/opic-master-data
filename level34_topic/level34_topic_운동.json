@@ -2,73 +2,73 @@
     {
         "id":  1,
         "text":  "What kind of exercise do you do regularly? Describe your routine.",
-        "hint":  "exercise, regularly, describe, routine, practice, stamina, team",
+        "hint":  "exercise(운동), regularly(규칙적으로), describe(설명하다), routine(일과), practice(연습), stamina(체력), team(팀)",
         "translation":  "평소 어떤 운동을 하나요? 당신의 루틴을 설명해 주세요."
     },
     {
         "id":  2,
         "text":  "Tell me about a sport or physical activity you enjoy and why.",
-        "hint":  "sport, physical, activity, enjoy, reason, routine, practice, stamina",
+        "hint":  "sport(스포츠), physical(신체적인), activity(활동), enjoy(즐기다), reason(이유), routine(일과), practice(연습), stamina(체력)",
         "translation":  "즐겨 하는 스포츠나 신체 활동에 대해 말하고, 그 이유를 설명해 주세요."
     },
     {
         "id":  3,
         "text":  "How has exercise changed your life or health?",
-        "hint":  "exercise, changed, life, health, routine, practice, stamina, team",
+        "hint":  "exercise(운동), changed(바뀐), life(생활), health(건강), routine(일과), practice(연습), stamina(체력), team(팀)",
         "translation":  "운동이 당신의 생활이나 건강을 어떻게 바꿔 주었나요?"
     },
     {
         "id":  4,
         "text":  "You said you like watching sports. Tell me about your favorite team.",
-        "hint":  "watching, sports, favorite, team, routine, practice, stamina",
+        "hint":  "watching(보기), sports(스포츠들), favorite(가장 좋아하는), team(팀), routine(일과), practice(연습), stamina(체력)",
         "translation":  "스포츠 보는 걸 좋아한다고 하셨는데요. 가장 좋아하는 팀에 대해 말해 주세요."
     },
     {
         "id":  5,
         "text":  "Who is your favorite sports player, and why do you like that person?",
-        "hint":  "favorite, sports, player, person, reason, routine, practice, stamina",
+        "hint":  "favorite(가장 좋아하는), sports(스포츠들), player(플레이어), person(사람), reason(이유), routine(일과), practice(연습), stamina(체력)",
         "translation":  "가장 좋아하는 스포츠 선수는 누구인가요? 그리고 왜 좋아하나요?"
     },
     {
         "id":  6,
         "text":  "You said you like playing soccer. How often do you play, where do you play, and who do you play with?",
-        "hint":  "playing, soccer, play, frequency, companions, stage, tickets, audience",
+        "hint":  "playing(하는 중), soccer(축구), play(하다), frequency(빈도), companions(동행자들), stage(무대), tickets(티켓), audience(관객)",
         "translation":  "축구를 좋아한다고 하셨는데요. 얼마나 자주 하고, 어디에서 하고, 누구와 함께 하나요?"
     },
     {
         "id":  7,
         "text":  "Tell me about a sports game you watched in person. What was the game like?",
-        "hint":  "sports, game, watched, person, teammates, level up, strategy, game time",
+        "hint":  "sports(스포츠들), game(게임), watched(봤다), person(사람), teammates(팀원들), level up(레벨을 올리다), strategy(전략), game time(게임 시간)",
         "translation":  "직접 본 스포츠 경기에 대해 말해 주세요. 경기 분위기는 어땠나요?"
     },
     {
         "id":  8,
         "text":  "How did you first learn this sport? How old were you, and who taught you?",
-        "hint":  "first, learn, sport, taught, first time, routine, practice, stamina",
+        "hint":  "first(처음), learn(배우다), sport(스포츠), taught(가르쳐 주었다), first time(처음), routine(일과), practice(연습), stamina(체력)",
         "translation":  "이 운동을 처음 어떻게 배우게 되었나요? 몇 살 때였고, 누가 가르쳐 줬나요?"
     },
     {
         "id":  9,
         "text":  "Tell me about your usual sports routine. When and where do you go, and what do you do from start to finish?",
-        "hint":  "usual, sports, routine, start, practice, stamina, team",
+        "hint":  "usual(평소의), sports(스포츠들), routine(일과), start(시작하다), practice(연습), stamina(체력), team(팀)",
         "translation":  "평소 운동 루틴을 말해 주세요. 언제 어디로 가고, 시작부터 끝까지 무엇을 하나요?"
     },
     {
         "id":  10,
         "text":  "When you go to exercise, what do you prepare? Where do you go, and who do you go with?",
-        "hint":  "exercise, prepare, routine, practice, stamina, team",
+        "hint":  "exercise(운동), prepare(준비하다), routine(일과), practice(연습), stamina(체력), team(팀)",
         "translation":  "운동하러 갈 때 무엇을 준비하나요? 어디로 가고, 누구와 함께 가나요?"
     },
     {
         "id":  11,
         "text":  "Tell me about the last time you played a sport. When was it, and who were you with?",
-        "hint":  "last, time, played, sport, last time, companions, routine, practice",
+        "hint":  "last(지난), time(시간), played(했다), sport(스포츠), last time(지난번), companions(동행자들), routine(일과), practice(연습)",
         "translation":  "마지막으로 운동한 때에 대해 말해 주세요. 언제였고, 누구와 함께 했나요?"
     },
     {
         "id":  12,
         "text":  "How did you feel after your last workout? Was it easy or hard for you?",
-        "hint":  "feel, after, last, workout, last time, routine, practice, stamina",
+        "hint":  "feel(느끼다), after(이후에), last(지난), workout(운동), last time(지난번), routine(일과), practice(연습), stamina(체력)",
         "translation":  "최근 운동하고 나서 기분이 어땠나요? 당신에게 쉬웠나요, 어려웠나요?"
     }
 ]

@@ -2,67 +2,67 @@
     {
         "id":  1,
         "text":  "What kind of music do you listen to? Tell me about your favorite genre.",
-        "hint":  "music, listen, favorite, genre, playlist, lyrics, favorite song",
+        "hint":  "music(음악), listen(듣다), favorite(가장 좋아하는), genre(장르), playlist(재생목록), lyrics(가사), favorite song(가장 좋아하는 노래)",
         "translation":  "어떤 음악을 들으세요? 가장 좋아하는 장르에 대해 말해 주세요."
     },
     {
         "id":  2,
         "text":  "Describe how music affects your mood or daily life.",
-        "hint":  "describe, music, affects, mood, playlist, genre, lyrics, favorite song",
+        "hint":  "describe(설명하다), music(음악), affects(영향을 준다), mood(기분), playlist(재생목록), genre(장르), lyrics(가사), favorite song(가장 좋아하는 노래)",
         "translation":  "음악이 당신의 기분이나 일상생활에 어떻게 영향을 미치는지 설명해 주세요."
     },
     {
         "id":  3,
         "text":  "Tell me about a concert or musical event you attended.",
-        "hint":  "concert, musical, event, attended, stage, tickets, audience, show",
+        "hint":  "concert(콘서트), musical(뮤지컬), event(행사), attended(참석한), stage(무대), tickets(티켓), audience(관객), show(공연)",
         "translation":  "참석한 콘서트나 음악 이벤트에 대해 말해 주세요."
     },
     {
         "id":  4,
         "text":  "You indicated in the survey that you listen to music. What type of music do you like listening to? Who is your favorite singer or composer?",
-        "hint":  "indicated, survey, listen, music, favorite, playlist, genre, lyrics",
+        "hint":  "indicated(표시한), survey(설문), listen(듣다), music(음악), favorite(가장 좋아하는), playlist(재생목록), genre(장르), lyrics(가사)",
         "translation":  "설문 조사에서 음악을 듣는다고 응답하셨습니다. 어떤 종류의 음악을 즐겨 들으시나요? 가장 좋아하는 가수나 작곡가는 누구인가요?"
     },
     {
         "id":  5,
         "text":  "How did you first get interested in listening to music? What kind of music did you listen to when you were a child? How has your taste in music changed over the years?",
-        "hint":  "first, interested, listening, music, first time, playlist, genre, lyrics",
+        "hint":  "first(처음), interested(관심 있는), listening(듣기), music(음악), first time(처음), playlist(재생목록), genre(장르), lyrics(가사)",
         "translation":  "음악 듣기에 처음 관심을 갖게 된 계기는 무엇인가요? 어렸을 때는 어떤 음악을 들었나요? 시간이 흐르면서 음악 취향은 어떻게 변했나요?"
     },
     {
         "id":  6,
         "text":  "Can you tell me about a time when you listened to some live music? Was it at a concert or a live cafe? How did you like it? Was it memorable?",
-        "hint":  "time, listened, live, music, stage, tickets, audience, show",
+        "hint":  "time(시간), listened(들었다), live(살다), music(음악), stage(무대), tickets(티켓), audience(관객), show(공연)",
         "translation":  "라이브 음악을 들었던 경험에 대해 이야기해 주시겠어요? 콘서트였나요, 아니면 라이브 카페였나요? 어땠어요? 기억에 남는 경험이었나요?"
     },
     {
         "id":  7,
         "text":  "What kind of music do you listen to? Who is your favorite musician?",
-        "hint":  "music, listen, favorite, musician, playlist, genre, lyrics, favorite song",
+        "hint":  "music(음악), listen(듣다), favorite(가장 좋아하는), musician(음악가), playlist(재생목록), genre(장르), lyrics(가사), favorite song(가장 좋아하는 노래)",
         "translation":  "어떤 종류의 음악을 들으세요? 가장 좋아하는 음악가는 누구인가요?"
     },
     {
         "id":  8,
         "text":  "I play the violin in an orchestra. Ask me three or four questions about it.",
-        "hint":  "play, violin, orchestra, three, stage, tickets, audience, show",
+        "hint":  "play(하다), violin(바이올린), orchestra(오케스트라), three(세 가지), stage(무대), tickets(티켓), audience(관객), show(공연)",
         "translation":  "저는 오케스트라에서 바이올린을 연주합니다. 그것에 대해 세네 가지 질문을 해주세요."
     },
     {
         "id":  9,
         "text":  "You indicated in the survey that you listen to music. What type of music do you like listening to? Who is your favorite singer or composer?",
-        "hint":  "indicated, survey, listen, music, favorite, playlist, genre, lyrics",
+        "hint":  "indicated(표시한), survey(설문), listen(듣다), music(음악), favorite(가장 좋아하는), playlist(재생목록), genre(장르), lyrics(가사)",
         "translation":  "설문 조사에서 음악을 듣는다고 응답하셨습니다. 어떤 종류의 음악을 즐겨 들으시나요? 가장 좋아하는 가수나 작곡가는 누구인가요?"
     },
     {
         "id":  10,
         "text":  "How did you first get interested in listening to music? What kind of music did you listen to when you were a child? How has your taste in music changed over time?",
-        "hint":  "first, interested, listening, music, first time, playlist, genre, lyrics",
+        "hint":  "first(처음), interested(관심 있는), listening(듣기), music(음악), first time(처음), playlist(재생목록), genre(장르), lyrics(가사)",
         "translation":  "음악 듣기에 처음 관심을 갖게 된 계기는 무엇인가요? 어렸을 때는 어떤 음악을 들었나요? 시간이 지나면서 음악 취향은 어떻게 변했나요?"
     },
     {
         "id":  11,
         "text":  "Can you tell me about a time when you listened to some live music, how did you like it and what was it like? Was it memorable to you?",
-        "hint":  "time, listened, live, music, playlist, genre, lyrics, favorite song",
+        "hint":  "time(시간), listened(들었다), live(살다), music(음악), playlist(재생목록), genre(장르), lyrics(가사), favorite song(가장 좋아하는 노래)",
         "translation":  "라이브 음악을 들었던 경험에 대해 이야기해 주시겠어요? 어땠고, 어떤 느낌이었나요? 기억에 남는 경험이었나요?"
     }
 ]

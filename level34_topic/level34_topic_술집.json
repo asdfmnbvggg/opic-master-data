@@ -2,37 +2,37 @@
     {
         "id":  1,
         "text":  "Tell me about a bar or pub you like to visit. What makes it special?",
-        "hint":  "visit, makes, special, drink menu, snacks, friends, atmosphere",
+        "hint":  "visit(방문하다), makes(만들어 준다), special(특별한), drink menu(음료 메뉴), snacks(간식), friends(친구들), atmosphere(분위기)",
         "translation":  "좋아하는 바나 펍에 대해 말해 주세요. 그곳이 특별한 이유는 무엇인가요?"
     },
     {
         "id":  2,
         "text":  "Describe the atmosphere in your favorite drinking establishment.",
-        "hint":  "describe, atmosphere, favorite, drinking, drink menu, snacks, friends",
+        "hint":  "describe(설명하다), atmosphere(분위기), favorite(가장 좋아하는), drinking(술 마시기), drink menu(음료 메뉴), snacks(간식), friends(친구들)",
         "translation":  "가장 좋아하는 술집의 분위기를 설명해 주세요."
     },
     {
         "id":  3,
         "text":  "What kind of drinks do you enjoy and why?",
-        "hint":  "drinks, enjoy, reason, drink menu, snacks, friends, atmosphere",
+        "hint":  "drinks(음료), enjoy(즐기다), reason(이유), drink menu(음료 메뉴), snacks(간식), friends(친구들), atmosphere(분위기)",
         "translation":  "어떤 종류의 음료를 즐기시나요? 그리고 그 이유는 무엇인가요?"
     },
     {
         "id":  4,
         "text":  "Tell me about the bar you most often go to. What does it look like?",
-        "hint":  "look, drink menu, snacks, friends, atmosphere",
+        "hint":  "look(모습), drink menu(음료 메뉴), snacks(간식), friends(친구들), atmosphere(분위기)",
         "translation":  "당신이 가장 자주 가는 바에 대해 이야기해 주세요. 어떻게 생겼나요?"
     },
     {
         "id":  5,
         "text":  "Who do you go to the bar with? When do you usually go? What else do you do other than drinking?",
-        "hint":  "else, other, drinking, drink menu, snacks, friends, atmosphere",
+        "hint":  "else(그 밖에), other(다른), drinking(술 마시기), drink menu(음료 메뉴), snacks(간식), friends(친구들), atmosphere(분위기)",
         "translation":  "누구랑 술집에 가세요? 보통 언제 가세요? 술 마시는 것 외에 다른 활동은 무엇을 하세요?"
     },
     {
         "id":  6,
         "text":  "Have you ever had a memorable experience at a bar? What happened and why is it memorable?",
-        "hint":  "ever, memorable, experience, happened, reason, drink menu, snacks, friends",
+        "hint":  "ever(언젠가), memorable(기억에 남는), experience(경험), happened(일어났다), reason(이유), drink menu(음료 메뉴), snacks(간식), friends(친구들)",
         "translation":  "술집에서 기억에 남는 경험을 해본 적이 있나요? 무슨 일이었고, 왜 기억에 남나요?"
     }
 ]

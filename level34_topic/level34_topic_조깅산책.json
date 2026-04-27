@@ -2,73 +2,73 @@
     {
         "id":  1,
         "text":  "Do you enjoy jogging or walking? Tell me about your routine.",
-        "hint":  "enjoy, jogging, walking, routine, route, shoes, pace, fresh air",
+        "hint":  "enjoy(즐기다), jogging(조깅), walking(걷기), routine(일과), route(경로), shoes(신발), pace(속도), fresh air(신선한 공기)",
         "translation":  "조깅이나 산책을 즐기시나요? 평소 루틴을 말해 주세요."
     },
     {
         "id":  2,
         "text":  "Describe a favorite place where you like to jog or walk and why.",
-        "hint":  "describe, favorite, place, walk, reason, route, shoes, pace",
+        "hint":  "describe(설명하다), favorite(가장 좋아하는), place(장소), walk(걷다), reason(이유), route(경로), shoes(신발), pace(속도)",
         "translation":  "조깅이나 산책하기 좋아하는 장소를 설명하고, 왜 좋아하는지 말해 주세요."
     },
     {
         "id":  3,
         "text":  "How does jogging or walking make you feel, and how often do you do it?",
-        "hint":  "jogging, walking, make, feel, frequency, route, shoes, pace",
+        "hint":  "jogging(조깅), walking(걷기), make(만들다), feel(느끼다), frequency(빈도), route(경로), shoes(신발), pace(속도)",
         "translation":  "조깅이나 산책을 하면 기분이 어떤가요? 그리고 얼마나 자주 하나요?"
     },
     {
         "id":  4,
         "text":  "Where do you usually go jogging? Where is it? Please describe your favorite jogging place.",
-        "hint":  "jogging, describe, favorite, place, route, shoes, pace, fresh air",
+        "hint":  "jogging(조깅), describe(설명하다), favorite(가장 좋아하는), place(장소), route(경로), shoes(신발), pace(속도), fresh air(신선한 공기)",
         "translation":  "보통 어디에서 조깅하나요? 그곳은 어디에 있나요? 가장 좋아하는 조깅 장소를 설명해 주세요."
     },
     {
         "id":  5,
         "text":  "Tell me about a memorable time you had while walking. What happened? Why do you still remember it?",
-        "hint":  "memorable, time, walking, happened, reason, route, shoes, pace",
+        "hint":  "memorable(기억에 남는), time(시간), walking(걷기), happened(일어났다), reason(이유), route(경로), shoes(신발), pace(속도)",
         "translation":  "산책하다가 있었던 기억에 남는 일을 말해 주세요. 무슨 일이 있었나요? 왜 아직도 기억에 남나요?"
     },
     {
         "id":  6,
         "text":  "You said you like jogging. What are the good points of jogging for your body and mind?",
-        "hint":  "jogging, good, points, body, route, shoes, pace, fresh air",
+        "hint":  "jogging(조깅), good(좋은), points(요점들), body(몸), route(경로), shoes(신발), pace(속도), fresh air(신선한 공기)",
         "translation":  "조깅을 좋아한다고 하셨는데요. 조깅의 몸과 마음에 좋은 점은 무엇인가요?"
     },
     {
         "id":  7,
         "text":  "When you go jogging, what do you prepare? What do you do to avoid getting hurt?",
-        "hint":  "jogging, prepare, avoid, getting, route, shoes, pace, fresh air",
+        "hint":  "jogging(조깅), prepare(준비하다), avoid(피하다), getting(얻기), route(경로), shoes(신발), pace(속도), fresh air(신선한 공기)",
         "translation":  "조깅하러 갈 때 무엇을 준비하나요? 다치지 않으려면 어떻게 하나요?"
     },
     {
         "id":  8,
         "text":  "Why do you like walking? When did you start liking it? How do you feel after a walk?",
-        "hint":  "walking, start, liking, feel, reason, route, shoes, pace",
+        "hint":  "walking(걷기), start(시작하다), liking(좋아함), feel(느끼다), reason(이유), route(경로), shoes(신발), pace(속도)",
         "translation":  "왜 걷기를 좋아하나요? 언제부터 좋아하게 되었나요? 걷고 나면 기분이 어떤가요?"
     },
     {
         "id":  9,
         "text":  "Tell me about the most interesting place where you went jogging. Where was it, and why was it interesting?",
-        "hint":  "interesting, place, went, jogging, reason, route, shoes, pace",
+        "hint":  "interesting(흥미로운), place(장소), went(갔다), jogging(조깅), reason(이유), route(경로), shoes(신발), pace(속도)",
         "translation":  "조깅했던 곳 중 가장 흥미로웠던 장소를 말해 주세요. 어디였고, 왜 흥미로웠나요?"
     },
     {
         "id":  10,
         "text":  "How did you start jogging for the first time? What made you keep doing it?",
-        "hint":  "start, jogging, first, time, first time, route, shoes, pace",
+        "hint":  "start(시작하다), jogging(조깅), first(처음), time(시간), first time(처음), route(경로), shoes(신발), pace(속도)",
         "translation":  "처음 조깅을 시작한 계기는 무엇인가요? 계속하게 된 이유는 무엇인가요?"
     },
     {
         "id":  11,
         "text":  "How far do you usually walk, and how long does it take? Please tell me your usual walking routine.",
-        "hint":  "walk, long, take, usual, route, shoes, pace, fresh air",
+        "hint":  "walk(걷다), long(오래), take(가져가다), usual(평소의), route(경로), shoes(신발), pace(속도), fresh air(신선한 공기)",
         "translation":  "보통 얼마나 걷고, 시간이 얼마나 걸리나요? 평소 산책 루틴을 말해 주세요."
     },
     {
         "id":  12,
         "text":  "What do you usually wear when you go for a walk? Please tell me about your shoes and outfit.",
-        "hint":  "wear, walk, shoes, outfit, route, pace, fresh air",
+        "hint":  "wear(입다), walk(걷다), shoes(신발), outfit(복장), route(경로), pace(속도), fresh air(신선한 공기)",
         "translation":  "산책할 때 보통 어떤 옷을 입나요? 신발과 복장에 대해 말해 주세요."
     }
 ]

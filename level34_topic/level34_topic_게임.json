@@ -1,38 +1,38 @@
 ﻿[
-  {
-    "id": 1,
-    "text": "What kind of games do you play most often?",
-    "hint": "game type, frequency, preference",
-    "translation": "어떤 종류의 게임을 가장 자주 하나요?"
-  },
-  {
-    "id": 2,
-    "text": "How does playing games affect your daily life?",
-    "hint": "games, daily life, effect",
-    "translation": "게임을 하는 것이 당신의 일상에 어떤 영향을 주나요?"
-  },
-  {
-    "id": 3,
-    "text": "Describe a good memory you had while playing a game.",
-    "hint": "positive memory, game experience",
-    "translation": "게임을 하면서 있었던 좋은 기억을 설명해 주세요."
-  },
-  {
-    "id": 4,
-    "text": "Which game do you play the most these days? How often do you play it, and why do you like it?",
-    "hint": "favorite game, frequency, reason",
-    "translation": "요즘 가장 자주 하는 게임은 무엇인가요? 얼마나 자주 하고, 왜 좋아하나요?"
-  },
-  {
-    "id": 5,
-    "text": "What device do you usually use for gaming, like your phone, PC, or console? Please tell me how you use it.",
-    "hint": "device, phone, PC, console, gaming",
-    "translation": "게임할 때 보통 어떤 기기(휴대폰, PC, 콘솔 등)를 사용하나요? 어떻게 사용하는지 말해 주세요."
-  },
-  {
-    "id": 6,
-    "text": "When did you first start playing games? What did you play at that time, and what was your first impression?",
-    "hint": "first game experience, early game, first impression",
-    "translation": "게임을 처음 시작한 때는 언제인가요? 그때 어떤 게임을 했고, 첫인상은 어땠나요?"
-  }
+    {
+        "id":  1,
+        "text":  "What kind of games do you play most often?",
+        "hint":  "game type(게임 종류), frequency(빈도), preference(선호)",
+        "translation":  "어떤 종류의 게임을 가장 자주 하나요?"
+    },
+    {
+        "id":  2,
+        "text":  "How does playing games affect your daily life?",
+        "hint":  "games(게임들), daily life(일상생활), effect(영향)",
+        "translation":  "게임을 하는 것이 당신의 일상에 어떤 영향을 주나요?"
+    },
+    {
+        "id":  3,
+        "text":  "Describe a good memory you had while playing a game.",
+        "hint":  "positive memory(좋은 기억), game experience(게임 경험)",
+        "translation":  "게임을 하면서 있었던 좋은 기억을 설명해 주세요."
+    },
+    {
+        "id":  4,
+        "text":  "Which game do you play the most these days? How often do you play it, and why do you like it?",
+        "hint":  "favorite game(가장 좋아하는 게임), frequency(빈도), reason(이유)",
+        "translation":  "요즘 가장 자주 하는 게임은 무엇인가요? 얼마나 자주 하고, 왜 좋아하나요?"
+    },
+    {
+        "id":  5,
+        "text":  "What device do you usually use for gaming, like your phone, PC, or console? Please tell me how you use it.",
+        "hint":  "device(기기), phone(전화), PC(컴퓨터), console(콘솔), gaming(게임하기)",
+        "translation":  "게임할 때 보통 어떤 기기(휴대폰, PC, 콘솔 등)를 사용하나요? 어떻게 사용하는지 말해 주세요."
+    },
+    {
+        "id":  6,
+        "text":  "When did you first start playing games? What did you play at that time, and what was your first impression?",
+        "hint":  "first game experience(첫 게임 경험), early game(초반 게임), first impression(첫인상)",
+        "translation":  "게임을 처음 시작한 때는 언제인가요? 그때 어떤 게임을 했고, 첫인상은 어땠나요?"
+    }
 ]

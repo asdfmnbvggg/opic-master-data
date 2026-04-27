@@ -2,67 +2,67 @@
     {
         "id":  1,
         "text":  "Where do you like to shop and what do you usually buy?",
-        "hint":  "shop, store, price, discount, buy",
+        "hint":  "shop(가게), store(상점), price(가격), discount(할인), buy(사다)",
         "translation":  "어디에서 쇼핑하는 것을 좋아하나요? 보통 무엇을 사나요?"
     },
     {
         "id":  2,
         "text":  "Describe a memorable shopping experience you had.",
-        "hint":  "describe, memorable, shopping, experience, store, price, discount, buy",
+        "hint":  "describe(설명하다), memorable(기억에 남는), shopping(쇼핑), experience(경험), store(상점), price(가격), discount(할인), buy(사다)",
         "translation":  "기억에 남는 쇼핑 경험을 설명해 주세요."
     },
     {
         "id":  3,
         "text":  "How do you compare online shopping and shopping in stores?",
-        "hint":  "compare, online, shopping, stores, store, price, discount, buy",
+        "hint":  "compare(비교하다), online(온라인), shopping(쇼핑), stores(상점들), store(상점), price(가격), discount(할인), buy(사다)",
         "translation":  "온라인 쇼핑과 매장 쇼핑을 어떻게 비교하나요?"
     },
     {
         "id":  4,
         "text":  "Tell me about your recent grocery shopping. Where did you go, when did you go, and who did you go with?",
-        "hint":  "recent, grocery, shopping, companions, store, price, discount, buy",
+        "hint":  "recent(최근의), grocery(식료품), shopping(쇼핑), companions(동행자들), store(상점), price(가격), discount(할인), buy(사다)",
         "translation":  "최근 장 본 경험을 말해 주세요. 어디에 갔고, 언제 갔고, 누구와 함께 갔나요?"
     },
     {
         "id":  5,
         "text":  "When was the last time you went shopping? What did you buy, and was anything special?",
-        "hint":  "last, time, went, shopping, last time, store, price, discount",
+        "hint":  "last(지난), time(시간), went(갔다), shopping(쇼핑), last time(지난번), store(상점), price(가격), discount(할인)",
         "translation":  "마지막으로 쇼핑한 때는 언제인가요? 무엇을 샀고, 특별한 점이 있었나요?"
     },
     {
         "id":  6,
         "text":  "These days, how has shopping changed compared to the past?",
-        "hint":  "days, shopping, changed, compared, store, price, discount, buy",
+        "hint":  "days(날들), shopping(쇼핑), changed(바뀐), compared(비교된), store(상점), price(가격), discount(할인), buy(사다)",
         "translation":  "요즘 쇼핑은 예전과 비교해서 어떻게 달라졌나요?"
     },
     {
         "id":  7,
         "text":  "Have you had any problems while shopping, like long lines or missing items? Tell me about one.",
-        "hint":  "problems, shopping, long, lines, store, price, discount, buy",
+        "hint":  "problems(문제들), shopping(쇼핑), long(오래), lines(대사), store(상점), price(가격), discount(할인), buy(사다)",
         "translation":  "쇼핑하면서 긴 줄이나 품절 같은 문제를 겪은 적이 있나요? 하나만 말해 주세요."
     },
     {
         "id":  8,
         "text":  "Do you have a special shopping memory? What did you buy, and why was it memorable?",
-        "hint":  "special, shopping, memory, memorable, reason, store, price, discount",
+        "hint":  "special(특별한), shopping(쇼핑), memory(기억), memorable(기억에 남는), reason(이유), store(상점), price(가격), discount(할인)",
         "translation":  "특별히 기억에 남는 쇼핑 경험이 있나요? 무엇을 샀고 왜 기억에 남나요?"
     },
     {
         "id":  9,
         "text":  "Let\u0027s talk about your shopping habits. How often do you shop, where do you go, and what do you buy most?",
-        "hint":  "talk, shopping, habits, shop, frequency, store, price, discount",
+        "hint":  "talk(이야기하다), shopping(쇼핑), habits(습관), shop(가게), frequency(빈도), store(상점), price(가격), discount(할인)",
         "translation":  "쇼핑 습관에 대해 말해 주세요. 얼마나 자주 가고, 어디로 가고, 주로 무엇을 사나요?"
     },
     {
         "id":  10,
         "text":  "How did you first become interested in shopping? Who did you usually go with in the beginning?",
-        "hint":  "first, become, interested, shopping, first time, store, price, discount",
+        "hint":  "first(처음), become(되다), interested(관심 있는), shopping(쇼핑), first time(처음), store(상점), price(가격), discount(할인)",
         "translation":  "처음 쇼핑에 관심을 갖게 된 계기는 무엇인가요? 처음에는 주로 누구와 함께 갔나요?"
     },
     {
         "id":  11,
         "text":  "While shopping, did anything funny or exciting ever happen? Please tell me that story.",
-        "hint":  "shopping, anything, funny, exciting, store, price, discount, buy",
+        "hint":  "shopping(쇼핑), anything(무엇이든), funny(재미있는), exciting(신나는), store(상점), price(가격), discount(할인), buy(사다)",
         "translation":  "쇼핑 중 재미있거나 신나는 일이 있었나요? 그 이야기를 들려주세요."
     }
 ]

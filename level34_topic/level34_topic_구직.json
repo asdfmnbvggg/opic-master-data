@@ -2,25 +2,25 @@
     {
         "id":  1,
         "text":  "You said you are looking for a job. What kind of job do you want, and how are you preparing for it?",
-        "hint":  "looking, want, preparing, resume, interview, application, preparation",
+        "hint":  "looking(찾는 중), want(원하다), preparing(준비하는 중), resume(이력서), interview(면접), application(지원서), preparation(준비)",
         "translation":  "구직 중이라고 하셨는데요. 어떤 일을 원하고, 어떻게 준비하고 있나요?"
     },
     {
         "id":  2,
         "text":  "When you look for a job, do you feel stressed? How do you manage that stress?",
-        "hint":  "look, feel, stressed, manage, resume, interview, application, preparation",
+        "hint":  "look(모습), feel(느끼다), stressed(스트레스를 받은), manage(관리하다), resume(이력서), interview(면접), application(지원서), preparation(준비)",
         "translation":  "구직할 때 스트레스를 받나요? 그 스트레스를 어떻게 관리하나요?"
     },
     {
         "id":  3,
         "text":  "Have you had a job interview before? How was it? Please tell me about it.",
-        "hint":  "interview, before, resume, application, preparation",
+        "hint":  "interview(면접), before(전에), resume(이력서), application(지원서), preparation(준비)",
         "translation":  "면접을 본 경험이 있나요? 어땠는지 이야기해 주세요."
     },
     {
         "id":  4,
         "text":  "What do you usually do in a day for job searching, like checking postings or preparing your resume?",
-        "hint":  "searching, checking, postings, preparing, post, comment, upload, followers",
+        "hint":  "searching(검색하기), checking(확인하기), postings(게시글들), preparing(준비하는 중), post(게시물), comment(댓글), upload(업로드하다), followers(팔로워)",
         "translation":  "구직할 때 하루에 보통 무엇을 하나요? 채용 공고 확인이나 이력서 준비 같은 일을 말해 주세요."
     }
 ]
