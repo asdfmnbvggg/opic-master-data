@@ -19,13 +19,13 @@
     },
     {
         "id":  4,
-        "text":  "I\u0027d like to give you a situation and ask you to act it out. You want to buy two tickets to a concert. Call the ticket office and ask three or four questions about buying the tickets.",
+        "text":  "I'd like to give you a situation and ask you to act it out. You want to buy two tickets to a concert. Call the ticket office and ask three or four questions about buying the tickets.",
         "hint":  "give(주다), situation(상황), want(원하다), tickets(티켓), stage(무대), audience(관객), show(공연)",
         "translation":  "상황을 드릴 테니 역할극으로 답해 주세요. 콘서트 티켓 두 장을 사고 싶습니다. 매표소에 전화해서 티켓 구매에 관해 3~4가지 질문을 해 주세요."
     },
     {
         "id":  5,
-        "text":  "I\u0027m sorry, but there is a problem I want you to resolve. You are supposed to go to a concert with your friend, but you can\u0027t because you are very sick. Call your friend, explain the situation, and give two or three alternatives.",
+        "text":  "I'm sorry, but there is a problem I want you to resolve. You are supposed to go to a concert with your friend, but you can't because you are very sick. Call your friend, explain the situation, and give two or three alternatives.",
         "hint":  "sorry(미안한), problem(문제), want(원하다), resolve(해결하다), stage(무대), tickets(티켓), audience(관객), show(공연)",
         "translation":  "해결해 주셨으면 하는 문제가 있습니다. 친구와 콘서트에 가기로 했지만 몸이 너무 아파서 갈 수 없습니다. 친구에게 전화해 상황을 설명하고 대안 2~3가지를 제시해 주세요."
     },
@@ -49,8 +49,9 @@
     },
     {
         "id":  9,
-        "text":  "Tell me about a memorable performance or a play you\u0027ve watched. What was it about? Why is it so memorable?",
+        "text":  "Tell me about a memorable performance or a play you've watched. What was it about? Why is it so memorable?",
         "hint":  "memorable(기억에 남는), performance(공연), play(하다), watched(봤다), reason(이유), stage(무대), tickets(티켓), audience(관객)",
         "translation":  "기억에 남는 공연이나 연극에 대해 이야기해 주세요. 어떤 내용이었나요? 왜 그렇게 기억에 남나요?"
     }
 ]
+

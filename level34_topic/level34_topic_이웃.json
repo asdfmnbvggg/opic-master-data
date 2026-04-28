@@ -13,7 +13,7 @@
     },
     {
         "id":  3,
-        "text":  "Describe a positive experience you\u0027ve had with a neighbor.",
+        "text":  "Describe a positive experience you've had with a neighbor.",
         "hint":  "describe(설명하다), positive(긍정적인), experience(경험), neighbor(이웃), neighbors(이웃들), community(공동체), friendly(친근한), apartment complex(아파트 단지)",
         "translation":  "이웃과 있었던 좋은 경험을 설명해 주세요."
     },
@@ -42,3 +42,4 @@
         "translation":  "어릴 때와 비교해서 동네가 어떻게 변했나요? 비슷한 점과 다른 점은 무엇인가요?"
     }
 ]
+

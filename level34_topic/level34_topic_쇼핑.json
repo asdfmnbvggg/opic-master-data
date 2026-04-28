@@ -49,7 +49,7 @@
     },
     {
         "id":  9,
-        "text":  "Let\u0027s talk about your shopping habits. How often do you shop, where do you go, and what do you buy most?",
+        "text":  "Let's talk about your shopping habits. How often do you shop, where do you go, and what do you buy most?",
         "hint":  "talk(이야기하다), shopping(쇼핑), habits(습관), shop(가게), frequency(빈도), store(상점), price(가격), discount(할인)",
         "translation":  "쇼핑 습관에 대해 말해 주세요. 얼마나 자주 가고, 어디로 가고, 주로 무엇을 사나요?"
     },
@@ -66,3 +66,4 @@
         "translation":  "쇼핑 중 재미있거나 신나는 일이 있었나요? 그 이야기를 들려주세요."
     }
 ]
+
