@@ -16,5 +16,29 @@
     "text": "What skills do you have that help you in a job search?",
     "hint": "skills, strengths, job search",
     "translation": "구직 활동에 도움이 되는 당신의 기술이나 강점은 무엇인가요?"
+  },
+  {
+    "id": 4,
+    "text": "You said you are currently looking for a job. What kind of position or industry are you most interested in, and what specific skills or experiences are you trying to build for that job?",
+    "hint": "looking for a job(구직 중이다), position(직무), industry(산업), interested in(~에 관심이 있는), specific skills(구체적인 기술), experiences(경험), build skills(기술을 쌓다), career goal(경력 목표), job preparation(취업 준비), professional development(직무 역량 개발)",
+    "translation": "당신은 현재 구직 중이라고 말했습니다. 어떤 직무나 산업에 가장 관심이 있고, 그 일을 위해 어떤 구체적인 기술이나 경험을 쌓으려고 하고 있나요?"
+  },
+  {
+    "id": 5,
+    "text": "Many people feel pressure while looking for a job. What part of the job-searching process is the most stressful for you, and how do you usually manage that stress in your daily life?",
+    "hint": "feel pressure(압박감을 느끼다), looking for a job(구직 중), job-searching process(구직 과정), stressful(스트레스가 많은), manage stress(스트레스를 관리하다), daily life(일상생활), interview preparation(면접 준비), waiting for results(결과를 기다리기), stay positive(긍정적으로 지내다), routine(루틴)",
+    "translation": "많은 사람들이 구직 중에 압박감을 느낍니다. 구직 과정에서 어떤 부분이 당신에게 가장 스트레스를 주고, 일상생활에서 그 스트레스를 보통 어떻게 관리하나요?"
+  },
+  {
+    "id": 6,
+    "text": "Tell me about a job interview or application process you experienced before. What did you prepare, what happened during the process, and what did you learn from it?",
+    "hint": "job interview(취업 면접), application process(지원 과정), experienced before(전에 경험한), prepare(준비하다), during the process(그 과정 동안), learn from it(그것에서 배우다), resume(이력서), cover letter(자기소개서), interview questions(면접 질문), feedback(피드백)",
+    "translation": "전에 경험했던 취업 면접이나 지원 과정에 대해 말해주세요. 무엇을 준비했고, 그 과정에서 무슨 일이 있었으며, 그것으로부터 무엇을 배웠나요?"
+  },
+  {
+    "id": 7,
+    "text": "Describe your typical day when you are preparing for a job. How do you divide your time between checking job postings, writing your resume, studying, and practicing for interviews?",
+    "hint": "typical day(전형적인 하루), preparing for a job(취업을 준비하다), divide time(시간을 나누다), checking job postings(채용 공고 확인), writing a resume(이력서 작성), studying(공부하기), practicing for interviews(면접 연습), job search routine(구직 루틴), time management(시간 관리), daily schedule(하루 일정)",
+    "translation": "취업을 준비할 때 당신의 전형적인 하루를 묘사해주세요. 채용 공고 확인, 이력서 작성, 공부, 면접 연습 사이에서 시간을 어떻게 나누나요?"
   }
 ]

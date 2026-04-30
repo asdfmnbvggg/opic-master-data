@@ -1,20 +1,74 @@
 [
   {
     "id": 1,
-    "text": "How do you usually spend your holidays or weekends?",
-    "hint": "holidays, weekends, activities",
-    "translation": "휴일이나 주말을 어떻게 보내시나요?"
+    "text": "You said you enjoy taking vacations. How do you usually spend your vacation from morning to night, and what part of the day do you enjoy the most?",
+    "hint": "taking vacations(휴가를 보내다), from morning to night(아침부터 밤까지), usually spend(보통 보내다), daily schedule(하루 일정), enjoy the most(가장 즐기다), morning routine(아침 루틴), afternoon activity(오후 활동), evening time(저녁 시간), relax(휴식하다), describe(묘사하다)",
+    "translation": "당신은 휴가를 즐긴다고 말했습니다. 보통 아침부터 밤까지 휴가를 어떻게 보내고, 하루 중 어떤 부분을 가장 즐기나요?"
   },
   {
     "id": 2,
-    "text": "Tell me about a memorable holiday you had recently.",
-    "hint": "memorable, holiday, recent",
-    "translation": "최근에 있었던 기억에 남는 휴일에 대해 말해 주세요."
+    "text": "What kinds of activities do you usually do during your vacation? Please explain why those activities help you relax or feel refreshed.",
+    "hint": "vacation activities(휴가 활동), usually do(보통 하다), relax(휴식하다), feel refreshed(상쾌함을 느끼다), hobbies(취미), travel(여행하다), stay home(집에 머물다), spend time outdoors(야외에서 시간을 보내다), relieve stress(스트레스를 풀다), explain(설명하다)",
+    "translation": "휴가 동안 보통 어떤 활동을 하나요? 그 활동들이 왜 당신을 쉬게 하거나 상쾌하게 느끼도록 도와주는지 설명해주세요."
   },
   {
     "id": 3,
-    "text": "What activities do you enjoy doing during your free time?",
-    "hint": "free time, activities, enjoyment",
-    "translation": "여가 시간에 즐겨 하는 활동은 무엇인가요?"
+    "text": "Do you prefer spending your vacation alone or with other people? Please explain how your choice affects your mood, schedule, and overall experience.",
+    "hint": "prefer(선호하다), spend vacation alone(혼자 휴가를 보내다), with other people(다른 사람들과), affect(영향을 미치다), mood(기분), schedule(일정), overall experience(전반적인 경험), personal time(혼자만의 시간), social time(사람들과 보내는 시간), explain(설명하다)",
+    "translation": "휴가를 혼자 보내는 것을 선호하나요, 아니면 다른 사람들과 함께 보내는 것을 선호하나요? 그 선택이 당신의 기분, 일정, 전반적인 경험에 어떤 영향을 주는지 설명해주세요."
+  },
+  {
+    "id": 4,
+    "text": "Who do you usually spend your vacation with? What do you normally do together, and why do you enjoy spending that time with them?",
+    "hint": "spend vacation with(휴가를 ~와 보내다), family(가족), friends(친구들), normally do together(보통 함께 하다), enjoy spending time(시간을 보내는 것을 즐기다), make memories(추억을 만들다), travel together(함께 여행하다), eat together(함께 식사하다), meaningful time(의미 있는 시간), explain(설명하다)",
+    "translation": "보통 누구와 휴가를 보내나요? 함께 무엇을 보통 하고, 왜 그들과 그 시간을 보내는 것을 즐기나요?"
+  },
+  {
+    "id": 5,
+    "text": "Many people have different vacation styles, such as traveling, staying home, or doing hobbies. What kind of vacation do you prefer, and what makes it fit your personality or lifestyle?",
+    "hint": "vacation styles(휴가 스타일), traveling(여행하기), staying home(집에 머물기), doing hobbies(취미 활동하기), prefer(선호하다), personality(성격), lifestyle(생활 방식), fit(잘 맞다), quiet vacation(조용한 휴가), active vacation(활동적인 휴가)",
+    "translation": "많은 사람들은 여행하기, 집에 머물기, 취미 활동하기처럼 서로 다른 휴가 스타일을 가지고 있습니다. 당신은 어떤 휴가를 선호하고, 무엇이 그것을 당신의 성격이나 생활 방식에 맞게 만드나요?"
+  },
+  {
+    "id": 6,
+    "text": "What makes a vacation truly relaxing or enjoyable for you? Please compare two different types of vacations you have experienced and explain which one you preferred.",
+    "hint": "truly relaxing(진정으로 편안한), enjoyable(즐거운), compare(비교하다), two different types(두 가지 다른 유형), experienced(경험한), preferred(선호한), travel vacation(여행 휴가), home vacation(집에서 보내는 휴가), rest(휴식), memorable(기억에 남는)",
+    "translation": "당신에게 휴가를 진정으로 편안하거나 즐겁게 만드는 것은 무엇인가요? 경험해 본 두 가지 다른 유형의 휴가를 비교하고, 어느 쪽을 더 선호했는지 설명해주세요."
+  },
+  {
+    "id": 7,
+    "text": "Tell me about an unexpected or interesting experience you had during a vacation. What happened, how did you react, and why do you still remember it?",
+    "hint": "unexpected experience(예상치 못한 경험), interesting experience(흥미로운 경험), during a vacation(휴가 중에), what happened(무슨 일이 있었는지), react(반응하다), still remember(아직도 기억하다), surprise(놀라움), special moment(특별한 순간), travel memory(여행 추억), explain(설명하다)",
+    "translation": "휴가 중에 있었던 예상치 못했거나 흥미로운 경험에 대해 말해주세요. 무슨 일이 있었고, 어떻게 반응했으며, 왜 아직도 그것을 기억하나요?"
+  },
+  {
+    "id": 8,
+    "text": "Have you ever had a problem while you were on vacation, such as bad weather, transportation issues, or a change of plans? What was the situation, and how did you handle it?",
+    "hint": "problem on vacation(휴가 중 문제), bad weather(나쁜 날씨), transportation issues(교통 문제), change of plans(계획 변경), situation(상황), handle it(처리하다), stay calm(침착함을 유지하다), solve the problem(문제를 해결하다), unexpected issue(예상치 못한 문제), explain(설명하다)",
+    "translation": "나쁜 날씨, 교통 문제, 또는 계획 변경처럼 휴가 중에 문제가 있었던 적이 있나요? 어떤 상황이었고, 어떻게 처리했나요?"
+  },
+  {
+    "id": 9,
+    "text": "Tell me about a memorable vacation you had when you were young. Where did you go, who were you with, and what made that vacation special at that time?",
+    "hint": "memorable vacation(기억에 남는 휴가), when I was young(어렸을 때), where I went(간 곳), who I was with(함께 있었던 사람), special at that time(그때 특별했던), childhood memory(어린 시절 기억), family trip(가족 여행), fun activity(재미있는 활동), remember clearly(분명히 기억하다), story(이야기)",
+    "translation": "어렸을 때 있었던 기억에 남는 휴가에 대해 말해주세요. 어디에 갔고, 누구와 함께 있었으며, 그때 그 휴가를 특별하게 만든 것은 무엇인가요?"
+  },
+  {
+    "id": 10,
+    "text": "How has the way you spend vacations changed over time? Please compare your vacation style in the past with your current vacation style.",
+    "hint": "spend vacations(휴가를 보내다), changed over time(시간이 지나며 변하다), compare(비교하다), vacation style(휴가 스타일), in the past(과거에는), current style(현재 스타일), used to(예전에는 ~하곤 했다), nowadays(요즘에는), preferences(취향), lifestyle change(생활 방식 변화)",
+    "translation": "시간이 지나면서 휴가를 보내는 방식은 어떻게 변했나요? 과거의 휴가 스타일과 현재의 휴가 스타일을 비교해주세요."
+  },
+  {
+    "id": 11,
+    "text": "Tell me about your most recent vacation. What did you do from the beginning to the end, and what was the most memorable part of it?",
+    "hint": "most recent vacation(가장 최근 휴가), from beginning to end(처음부터 끝까지), what I did(했던 것), memorable part(기억에 남는 부분), travel schedule(여행 일정), relax(쉬다), spend time with(함께 시간을 보내다), activity(활동), experience(경험), describe(묘사하다)",
+    "translation": "가장 최근 휴가에 대해 말해주세요. 처음부터 끝까지 무엇을 했고, 가장 기억에 남는 부분은 무엇이었나요?"
+  },
+  {
+    "id": 12,
+    "text": "How did you feel during your most recent vacation? Based on that experience, what kind of vacation would you like to have in the future, and why?",
+    "hint": "most recent vacation(가장 최근 휴가), how I felt(기분이 어땠는지), based on that experience(그 경험을 바탕으로), future vacation(미래의 휴가), would like to have(갖고 싶다), relaxing trip(편안한 여행), active trip(활동적인 여행), preference(선호), reason(이유), explain(설명하다)",
+    "translation": "가장 최근 휴가 동안 기분이 어땠나요? 그 경험을 바탕으로 앞으로 어떤 휴가를 보내고 싶고, 그 이유는 무엇인가요?"
   }
 ]

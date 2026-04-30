@@ -16,5 +16,41 @@
     "text": "Describe a memorable gaming experience you had.",
     "hint": "memorable, gaming experience",
     "translation": "기억에 남는 게임 경험을 설명해 주세요."
+  },
+  {
+    "id": 4,
+    "text": "You said you enjoy playing games. What kinds of games do you usually play these days, and what do you like about them? Please explain how your taste in games reflects your personality or lifestyle.",
+    "hint": "enjoy playing games(게임하는 것을 즐기다), these days(요즘), game genre(게임 장르), strategy game(전략 게임), role-playing game(롤플레잉 게임), casual game(캐주얼 게임), personality(성격), lifestyle(생활 방식), reflect(반영하다), explain(설명하다)",
+    "translation": "당신은 게임하는 것을 즐긴다고 말했습니다. 요즘 보통 어떤 종류의 게임을 하고, 그 게임들의 어떤 점을 좋아하나요? 게임 취향이 당신의 성격이나 생활 방식을 어떻게 반영하는지 설명해주세요."
+  },
+  {
+    "id": 5,
+    "text": "How has playing games affected your daily life? For example, has it changed the way you spend your free time, manage stress, or interact with other people? Please explain in detail.",
+    "hint": "affected daily life(일상생활에 영향을 미치다), free time(여가 시간), manage stress(스트레스를 관리하다), interact with people(사람들과 교류하다), relax(휴식하다), hobby(취미), online friends(온라인 친구), balance(균형), positive effect(긍정적인 영향), explain in detail(자세히 설명하다)",
+    "translation": "게임하는 것이 당신의 일상생활에 어떤 영향을 미쳤나요? 예를 들어, 여가 시간을 보내는 방식, 스트레스를 관리하는 방식, 또는 다른 사람들과 교류하는 방식을 바꾸었나요? 자세히 설명해주세요."
+  },
+  {
+    "id": 6,
+    "text": "Tell me about a time when you had a really memorable experience while playing a game. What happened, who were you with, and why do you still remember that moment?",
+    "hint": "memorable experience(기억에 남는 경험), while playing a game(게임을 하는 동안), what happened(무슨 일이 있었는지), who I was with(함께 있었던 사람), still remember(아직도 기억하다), exciting moment(신나는 순간), win a match(경기에서 이기다), teamwork(팀워크), unexpected result(예상치 못한 결과), special memory(특별한 기억)",
+    "translation": "게임을 하면서 정말 기억에 남는 경험을 했던 때에 대해 말해주세요. 무슨 일이 있었고, 누구와 함께 있었으며, 왜 아직도 그 순간을 기억하나요?"
+  },
+  {
+    "id": 7,
+    "text": "What game have you been playing the most recently? How did you first discover it, and why do you keep playing it instead of trying other games?",
+    "hint": "recently(최근에), play the most(가장 많이 하다), discover(발견하다), keep playing(계속 하다), instead of(~대신에), other games(다른 게임들), favorite feature(좋아하는 기능), interesting gameplay(흥미로운 게임플레이), challenging(도전적인), habit(습관)",
+    "translation": "최근에 가장 많이 하고 있는 게임은 무엇인가요? 그 게임을 처음 어떻게 알게 되었고, 왜 다른 게임을 시도하는 대신 계속 그 게임을 하나요?"
+  },
+  {
+    "id": 8,
+    "text": "What device do you usually use to play games, such as a smartphone, computer, tablet, or console? How does the device affect your gaming experience, and why do you prefer it?",
+    "hint": "device(기기), play games(게임을 하다), smartphone(스마트폰), computer(컴퓨터), tablet(태블릿), console(콘솔), gaming experience(게임 경험), prefer(선호하다), screen size(화면 크기), controls(조작감)",
+    "translation": "스마트폰, 컴퓨터, 태블릿, 콘솔 같은 기기 중 게임을 할 때 보통 어떤 기기를 사용하나요? 그 기기가 게임 경험에 어떤 영향을 주고, 왜 그것을 선호하나요?"
+  },
+  {
+    "id": 9,
+    "text": "Gaming has changed a lot with mobile games, online multiplayer games, and even AI-based features. How do you think games today are different from games in the past? Please compare them based on your own experience.",
+    "hint": "gaming has changed(게임이 변했다), mobile games(모바일 게임), online multiplayer games(온라인 멀티플레이어 게임), AI-based features(AI 기반 기능), games today(요즘 게임), games in the past(과거 게임), compare(비교하다), own experience(자신의 경험), graphics(그래픽), social features(소셜 기능)",
+    "translation": "모바일 게임, 온라인 멀티플레이어 게임, 심지어 AI 기반 기능으로 게임은 많이 변했습니다. 오늘날의 게임은 과거의 게임과 어떻게 다르다고 생각하나요? 자신의 경험을 바탕으로 비교해주세요."
   }
 ]
