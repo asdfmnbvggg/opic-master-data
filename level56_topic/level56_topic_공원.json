@@ -28,5 +28,35 @@
   "text": "Tell me about the last time you went to a park recently. When was it? Which park did you go to? Who did you go with? What did you do there? Use as many details as possible to explain it.",
   "hint": "recently(최근에), last time I went(마지막으로 갔을 때), went to(~에 갔다), spend time with(~와 시간을 보내다), take a walk(산책하다), enjoy the scenery(풍경을 즐기다), have a picnic(피크닉을 하다), relax and unwind(휴식을 취하다), take photos(사진을 찍다), have a great time(즐거운 시간을 보내다)",
   "translation": "최근에 마지막으로 공원에 간 것에 대해 말해주세요. 언제인가요? 어느 공원에 갔었나요? 누구와 함께 갔나요? 그곳에서 무엇을 했나요? 설명하기 위해 가능한 많은 세부사항을 알려주세요."
+  },
+  {
+    "id": 6,
+    "text": "You mentioned that you enjoy spending time at parks. Can you describe a park you like to visit? Where is it located, and what does it look like? Who do you usually go there with? Please give me a detailed description of that place.",
+    "hint": "spend time at parks(공원에서 시간을 보내다), like to visit(방문하기 좋아하다), located in(~에 위치한), peaceful place(평화로운 장소), walking paths(산책길), open space(넓은 공간), beautiful scenery(아름다운 풍경), go with family(가족과 가다), go with friends(친구들과 가다), detailed description(자세한 묘사)",
+    "translation": "당신은 공원에서 시간을 보내는 것을 즐긴다고 말했습니다. 방문하기 좋아하는 공원을 묘사해 줄 수 있나요? 어디에 위치해 있고 어떤 모습인가요? 보통 누구와 함께 그곳에 가나요? 그 장소에 대해 자세히 묘사해주세요."
+  },
+  {
+    "id": 7,
+    "text": "How frequently do you visit parks? What activities do you usually do there? Walk me through what you typically do from the moment you arrive at the park until you leave.",
+    "hint": "frequently(자주), visit parks(공원을 방문하다), activities(활동), walk me through(순서대로 설명하다), from the moment(그 순간부터), arrive at the park(공원에 도착하다), take a walk(산책하다), sit on a bench(벤치에 앉다), enjoy fresh air(신선한 공기를 즐기다), until I leave(떠날 때까지)",
+    "translation": "얼마나 자주 공원을 방문하나요? 그곳에서 보통 어떤 활동을 하나요? 공원에 도착한 순간부터 떠날 때까지 보통 무엇을 하는지 순서대로 설명해주세요."
+  },
+  {
+    "id": 8,
+    "text": "Tell me about a time you had a memorable experience at a park. Who were you with, and what did you do? Did anything unusual or special happen that day? Please describe the situation in detail.",
+    "hint": "memorable experience(기억에 남는 경험), at a park(공원에서), be with someone(~와 함께 있다), unusual(특이한), special(특별한), happen that day(그날 일어나다), situation(상황), describe in detail(자세히 묘사하다), unexpected moment(예상치 못한 순간), meaningful memory(의미 있는 기억)",
+    "translation": "공원에서 기억에 남는 경험을 했던 때에 대해 말해주세요. 누구와 함께 있었고 무엇을 했나요? 그날 특이하거나 특별한 일이 있었나요? 그 상황을 자세히 묘사해주세요."
+  },
+  {
+    "id": 9,
+    "text": "Can you tell me how you first started going to parks regularly? When and where did you go at that time? Who did you go with? How has your interest in visiting parks changed since then? Please explain in detail.",
+    "hint": "started going regularly(정기적으로 가기 시작하다), at that time(그때), go with someone(~와 함께 가다), interest in visiting parks(공원 방문에 대한 관심), changed since then(그 이후로 변하다), first started(처음 시작하다), relaxing habit(편안한 습관), spend free time(여가 시간을 보내다), explain in detail(자세히 설명하다), over time(시간이 지나면서)",
+    "translation": "어떻게 처음 공원에 정기적으로 가기 시작했는지 말해 줄 수 있나요? 그때 언제 어디에 갔나요? 누구와 함께 갔나요? 그 이후로 공원 방문에 대한 관심이 어떻게 변했나요? 자세히 설명해주세요."
+  },
+  {
+    "id": 10,
+    "text": "Think about the most recent time you visited a park. When was it, and which park did you go to? Who were you with, and what did you do there? Please describe your experience with as much detail as possible.",
+    "hint": "most recent time(가장 최근), visited a park(공원을 방문했다), which park(어느 공원), be with someone(~와 함께 있다), what I did there(그곳에서 한 일), take pictures(사진을 찍다), enjoy the scenery(풍경을 즐기다), spend a relaxing time(편안한 시간을 보내다), as much detail as possible(가능한 한 자세히), recent experience(최근 경험)",
+    "translation": "가장 최근에 공원을 방문했던 때를 떠올려 보세요. 언제였고 어느 공원에 갔나요? 누구와 함께 있었고 그곳에서 무엇을 했나요? 가능한 한 자세히 당신의 경험을 묘사해주세요."
   }
 ]

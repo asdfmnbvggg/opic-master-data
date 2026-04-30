@@ -22,5 +22,41 @@
   "text": "When was the first time you went to a bar? Where did you go, and what did it look like? Who did you go with? What did you eat at the bar? Provide as many details as possible.",
   "hint": "first time experience(첫 경험), back then(그 당시에는), cozy atmosphere(아늑한 분위기), dim lighting(어두운 조명), go with friends(친구들과 가다), try new food(새로운 음식을 먹다), order drinks(술을 주문하다), bar snacks(안주), feel nervous(긴장하다), memorable moment(기억에 남는 순간)",
   "translation": "언제 처음으로 바에 갔었나요? 어디에 갔고 그 곳은 어땠나요? 누구와 함께 갔었나요? 바에서 무엇을 먹었나요? 가능한 많은 세부 사항을 알려주세요."
+  },
+  {
+  "id": 5,
+  "text": "I'd like to know about the bar you often go to. Where is your favorite bar? What does it look like? Please describe everything about that bar in detail.",
+  "hint": "favorite bar(가장 좋아하는 술집), often go to(자주 가다), located in(~에 위치한), cozy atmosphere(아늑한 분위기), stylish interior(세련된 인테리어), dim lighting(은은한 조명), comfortable seats(편안한 좌석), friendly staff(친절한 직원), signature drinks(대표 음료), describe in detail(자세히 묘사하다)",
+  "translation": "당신이 자주 가는 술집에 대해 알고 싶습니다. 당신이 가장 좋아하는 술집은 어디에 있나요? 어떻게 생겼나요? 그 술집에 대해 모든 것을 자세히 묘사해주세요."
+  },
+  {
+  "id": 6,
+  "text": "I’d like to hear about a bar or pub you like to visit. Where is it located? What kind of atmosphere does it have? Please describe the place in as much detail as possible.",
+  "hint": "bar or pub(바 또는 술집), like to visit(방문하기 좋아하다), located near(~ 근처에 위치한), atmosphere(분위기), lively(활기찬), relaxing(편안한), interior design(인테리어 디자인), background music(배경 음악), good place to talk(대화하기 좋은 장소), as much detail as possible(가능한 한 자세히)",
+  "translation": "당신이 방문하기 좋아하는 바나 술집에 대해 듣고 싶습니다. 어디에 위치해 있나요? 어떤 분위기를 가지고 있나요? 그 장소를 가능한 한 자세히 묘사해주세요."
+  },
+  {
+  "id": 7,
+  "text": "What do you usually do when you go to a bar? Who do you normally go with? What food or drinks do you usually order? Tell me about your usual time at a bar in detail.",
+  "hint": "usually do(보통 하다), go to a bar(술집에 가다), normally go with(보통 ~와 가다), order food(음식을 주문하다), order drinks(음료를 주문하다), beer(맥주), cocktails(칵테일), bar snacks(안주), chat with friends(친구들과 대화하다), usual time(평소 시간)",
+  "translation": "술집에 가면 보통 무엇을 하나요? 보통 누구와 함께 가나요? 어떤 음식이나 음료를 주로 주문하나요? 술집에서 보내는 평소 시간을 자세히 말해주세요."
+  },
+  {
+  "id": 8,
+  "text": "How have pubs or bars changed compared to the past? What were they like before, and what are they like now? What differences or similarities do you notice? Please explain in detail.",
+  "hint": "compared to the past(과거와 비교해서), pubs or bars(펍이나 바), changed(변했다), before(이전에는), now(지금은), differences(차이점), similarities(공통점), drinking culture(음주 문화), modern style(현대적인 스타일), explain in detail(자세히 설명하다)",
+  "translation": "과거와 비교했을 때 펍이나 바는 어떻게 변했나요? 예전에는 어땠고 지금은 어떤가요? 어떤 차이점이나 공통점이 보이나요? 자세히 설명해주세요."
+  },
+  {
+  "id": 9,
+  "text": "Tell me about a memorable experience you had at a bar. What happened there? Why do you still remember it? How did you handle the situation? Please give me all the details.",
+  "hint": "memorable experience(기억에 남는 경험), at a bar(술집에서), what happened(무슨 일이 있었는지), still remember(아직도 기억하다), handle the situation(상황을 처리하다), unexpected incident(예상치 못한 사건), special moment(특별한 순간), stay calm(침착하게 있다), all the details(모든 세부사항), unforgettable(잊을 수 없는)",
+  "translation": "술집에서 겪은 기억에 남는 경험에 대해 말해주세요. 그곳에서 무슨 일이 있었나요? 왜 아직도 그것을 기억하나요? 그 상황을 어떻게 처리했나요? 모든 세부사항을 알려주세요."
+  },
+  {
+  "id": 10,
+  "text": "Can you tell me about the first time you went to a bar? Where did you go, and who were you with? What was the place like, and what did you eat or drink there? Please describe it in detail.",
+  "hint": "first time(처음), went to a bar(바에 갔다), who I was with(함께 있었던 사람), what the place was like(그 장소가 어땠는지), eat or drink(먹거나 마시다), first impression(첫인상), try a new drink(새로운 음료를 마셔보다), snacks(안주), exciting experience(신나는 경험), describe in detail(자세히 묘사하다)",
+  "translation": "처음 바에 갔던 때에 대해 말해 줄 수 있나요? 어디에 갔고 누구와 함께 있었나요? 그 장소는 어땠고, 그곳에서 무엇을 먹거나 마셨나요? 자세히 묘사해주세요."
   }
 ]

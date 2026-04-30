@@ -28,5 +28,35 @@
   "text": "When was the last time you went shopping? When and where did you go? Who did you go with? What items did you buy? Tell me about your recent shopping experience.",
   "hint": "recently(최근에), the last time I went(마지막으로 갔을 때), shopping mall(쇼핑몰), go with a friend(친구와 함께 가다), browse items(물건을 둘러보다), make a purchase(구매하다), daily necessities(생활 필수품), try something new(새로운 것을 시도하다), enjoy the experience(경험을 즐기다), feel satisfied(만족감을 느끼다)",
   "translation": "최근에 쇼핑한 것은 언제입니까? 언제 어디로 갔었나요? 누구와 갔었나요? 어떤 것을 구매했나요? 당신의 최근 쇼핑 경험에 대해 말해주세요."
+  },
+  {
+  "id": 6,
+  "text": "You mentioned that you enjoy shopping. Can you describe some popular stores or shopping malls in your country? Where are they usually located, and what kinds of products do they sell? Is there a store you often go to?",
+  "hint": "popular stores(인기 있는 가게), shopping malls(쇼핑몰), usually located(보통 위치한), products(상품), clothing store(옷 가게), department store(백화점), electronics store(전자제품 매장), grocery store(식료품점), often go to(자주 가다), convenient location(편리한 위치)",
+  "translation": "당신은 쇼핑을 즐긴다고 말했습니다. 당신의 나라에서 인기 있는 가게나 쇼핑몰을 묘사해 줄 수 있나요? 그것들은 보통 어디에 위치해 있고, 어떤 종류의 상품을 판매하나요? 당신이 자주 가는 가게가 있나요?"
+  },
+  {
+  "id": 7,
+  "text": "Let’s talk about how you usually shop. When do you normally go shopping, and where do you usually go? How often do you shop? What do you usually buy, and who do you usually go with?",
+  "hint": "usually shop(보통 쇼핑하다), normally(보통), go shopping(쇼핑하러 가다), how often(얼마나 자주), buy clothes(옷을 사다), buy groceries(식료품을 사다), go with friends(친구들과 가다), go alone(혼자 가다), compare prices(가격을 비교하다), shopping routine(쇼핑 루틴)",
+  "translation": "당신이 보통 어떻게 쇼핑하는지 이야기해봅시다. 보통 언제 쇼핑을 가고 어디로 가나요? 얼마나 자주 쇼핑하나요? 보통 무엇을 사고, 누구와 함께 가나요?"
+  },
+  {
+  "id": 8,
+  "text": "Tell me about a shopping experience that you still remember clearly. What happened that day? What did you buy? Why was that experience memorable for you?",
+  "hint": "remember clearly(분명히 기억하다), shopping experience(쇼핑 경험), that day(그날), what happened(무슨 일이 있었는지), bought(샀다), memorable(기억에 남는), special discount(특별 할인), lucky find(운 좋은 발견), meaningful purchase(의미 있는 구매), unforgettable moment(잊을 수 없는 순간)",
+  "translation": "아직도 분명히 기억나는 쇼핑 경험에 대해 말해주세요. 그날 무슨 일이 있었나요? 무엇을 샀나요? 왜 그 경험이 당신에게 기억에 남나요?"
+  },
+  {
+  "id": 9,
+  "text": "Have you ever had a problem while shopping? What kind of problem was it? How did it happen, and what did you do to solve it? Please explain everything in detail.",
+  "hint": "have a problem(문제가 생기다), while shopping(쇼핑하는 동안), defective product(불량품), wrong item(잘못된 물건), refund(환불), exchange(교환), customer service desk(고객센터), solve the problem(문제를 해결하다), explain in detail(자세히 설명하다), stay calm(침착함을 유지하다)",
+  "translation": "쇼핑하는 동안 문제가 생긴 적이 있나요? 어떤 종류의 문제였나요? 어떻게 발생했고, 그것을 해결하기 위해 무엇을 했나요? 모든 것을 자세히 설명해주세요."
+  },
+  {
+  "id": 10,
+  "text": "Think about the most recent time you went shopping. When and where did you go? Who did you go with? What did you buy? Please describe that shopping experience in detail.",
+  "hint": "most recent time(가장 최근), went shopping(쇼핑하러 갔다), when and where(언제 어디서), go with someone(~와 함께 가다), bought(샀다), browse around(둘러보다), make a purchase(구매하다), shopping experience(쇼핑 경험), in detail(자세히), feel satisfied(만족감을 느끼다)",
+  "translation": "가장 최근에 쇼핑하러 갔던 때를 떠올려 보세요. 언제 어디로 갔나요? 누구와 함께 갔나요? 무엇을 샀나요? 그 쇼핑 경험을 자세히 묘사해주세요."
   }
 ]

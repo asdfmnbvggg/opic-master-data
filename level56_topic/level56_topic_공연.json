@@ -1,32 +1,74 @@
 [
   {
     "id": 1,
-    "text": "You indicated in the survey that you enjoy watching plays. What kinds of plays do you like the most? Who is your favorite performer? What play has this actor or actress starred in?",
+    "text": "You indicated in the survey that you enjoy watching plays(performances). What kinds of plays(performances) do you like the most? Who is your favorite performer? What play(performance) has this actor or actress starred in?",
     "hint": "captivating(사로잡는), immersive(몰입감 있는), versatile(다재다능한), emotional depth(감정의 깊이), stage presence(무대 장악력), well-crafted(잘 만들어진), live performance(라이브 공연), expressive(표현력이 풍부한), thought-provoking(생각을 하게 만드는), outstanding portrayal(뛰어난 연기 표현)",
-    "translation": "당신은 설문조사에서 공연을 즐겨 본다고 했습니다. 어떤 공연을 가장 좋아하시나요? 당신이 가장 좋아하는 배우는 누구인가요? 그 남배우 또는 여배우는 어떤 작품에 출연했나요? "
+    "translation": "당신은 설문조사에서 공연을 즐겨 본다고 했습니다. 어떤 공연(연극)을 가장 좋아하시나요? 당신이 가장 좋아하는 배우는 누구인가요? 그 배우 또는 여배우는 어떤 작품에 출연했나요?"
   },
   {
     "id": 2,
-    "text": "You indicated in the survey that you enjoy watching plays. Which auditorium do you like the most? Where is it located? What does it look like? How often do you go there? What performances are often held in that theater? Give me many details.",
-    "hint": "auditorium(공연장), centrally located(중심에 위치한), spacious(넓은), modern interior(현대적인 내부), seating capacity(수용 인원), comfortable seating(편안한 좌석), excellent acoustics(뛰어난 음향), state-of-the-art(최첨단의), frequently visit(자주 방문하다), various performances(다양한 공연)",
-    "translation": "당신은 설문조사에서 공연을 보는 것을 좋아한다고 했습니다. 어느 공연장을 가장 좋아하나요? 어디에 있나요? 그 곳은 어떤가요? 얼마나 자주 그곳에 가시나요? 그 공연장에서는 어떤 공연이 진행되나요? 많은 세부사항을 알려주세요. "
+    "text": "You indicated in the survey that you enjoy watching plays(performances). Which theater or auditorium do you like the most? Where is it located? What does it look like? How often do you go there? What performances are often held in that theater? Give me many details.",
+    "hint": "theater(극장), auditorium(공연장), centrally located(중심에 위치한), spacious(넓은), modern interior(현대적인 내부), seating capacity(수용 인원), comfortable seating(편안한 좌석), excellent acoustics(뛰어난 음향), frequently visit(자주 방문하다), various performances(다양한 공연)",
+    "translation": "당신은 설문조사에서 연극(공연)을 보는 것을 좋아한다고 했습니다. 어느 극장 또는 상영관을 가장 좋아하나요? 어디에 있나요? 그곳은 어떤가요? 얼마나 자주 그곳에 가시나요? 그 극장에서는 어떤 공연이 진행되나요? 많은 세부사항을 알려주세요."
   },
   {
     "id": 3,
-    "text": "What is your typical day when you go to the auditorium? What do you do before you watch a play? What about after? Please describe your routine in detail. ",
+    "text": "What is your typical day when you go to the auditorium? What do you do before you watch a play? What about after? Please describe your routine in detail.",
     "hint": "get ready(준비하다), make a reservation(예약하다), head to the venue(공연장으로 가다), arrive early(일찍 도착하다), grab a snack(간단히 먹다), check the schedule(일정 확인하다), take my seat(자리에 앉다), enjoy the performance(공연을 즐기다), take photos(사진 찍다), reflect on the play(공연을 되돌아보다)",
-    "translation": "공연장에 가면 당신의 하루는 어떤가요? 공연을 보기 전에 무엇을 하시나요? 그 후에는 무엇을 하시나요? 당신의 행동 순서를 자세히 묘사해주세요."
+    "translation": "공연장(극장)에 가면 당신의 하루는 어떤가요? 공연(연극)을 보기 전에 무엇을 하시나요? 그 후에는 무엇을 하시나요? 당신의 행동 순서를 자세히 묘사해주세요."
   },
   {
     "id": 4,
-    "text": "How has your interest in plays changed over the last few years? What kind of play did you like in the past? What about now? ",
+    "text": "How has your interest in plays changed over the last few years? What kind of play did you like in the past? What about now?",
     "hint": "used to(과거에는 ~하곤 했다), gradually(점차적으로), developed an interest(흥미가 생기다), preference(선호), light-hearted(가벼운), entertaining(재미있는), nowadays(요즘에는), more sophisticated(더 세련된), meaningful(의미 있는), broadened perspective(시야가 넓어짐)",
-    "translation": "최근 몇 년간 당신의 공연에 대한 취향이 어떻게 변화했나요? 과거에는 어떤 종류의 공연을 좋아했나요? 지금은 어떤가요? "
+    "translation": "최근 몇 년간 당신의 공연(연극)에 대한 취향이 어떻게 변화했나요? 과거에는 어떤 종류의 공연을 좋아했나요? 지금은 어떤가요?"
   },
   {
     "id": 5,
     "text": "Can you tell me about the most memorable play you have seen? What play did you see? What do you remember about that play? Who was the main performer? What made it so special? How did it feel when you were watching it? Give as many details as you can.",
     "hint": "memorable(기억에 남는), unforgettable(잊을 수 없는), outstanding performance(뛰어난 공연), lead actor(주연 배우), breathtaking(숨이 멎을 듯한), emotionally moving(감동적인), powerful message(강한 메시지), dramatic scene(극적인 장면), vivid memory(생생한 기억), left a lasting impression(오랫동안 인상에 남다)",
-    "translation": "당신이 본 가장 기억에 남는 공연에 대해 말해 주실래요? 무슨 공연을 봤나요? 그 공연에 대해 무엇을 기억하나요? 누가 메인 배우였나요? 무엇이 그것을 특별하게 했나요? 그것을 볼 때 당신의 기분은 어땠나요? 가능한 많은 세부사항을 알려주세요. "
+    "translation": "당신이 본 가장 기억에 남는 연극(공연)에 대해 말해 주실래요? 무슨 공연을 봤나요? 그 공연에 대해 무엇을 기억하나요? 누가 메인 배우였나요? 무엇이 그것을 특별하게 했나요? 그것을 볼 때 당신의 기분은 어땠나요? 가능한 많은 세부사항을 알려주세요."
+  },
+  {
+    "id": 6,
+    "text": "Can you tell me how you first became interested in going to a theater? When and where did you go? Which play did you see? What was your impression of that performance?",
+    "hint": "first became interested(처음 흥미를 가지게 되다), theater(극장), performance(공연), impression(인상), memorable moment(기억에 남는 순간), inspired by(~에서 영감을 받다), went with friends(친구들과 가다), live stage(실제 무대), exciting atmosphere(신나는 분위기), sparked my interest(흥미를 불러일으키다)",
+    "translation": "어떻게 처음 극장에 가는 것에 흥미를 가지게 되었는지 말해 주실래요? 언제 어디에 갔나요? 무슨 공연(연극)을 봤나요? 그 공연에서 당신이 느낀 인상은 어땠나요?"
+  },
+  {
+    "id": 7,
+    "text": "You mentioned that you enjoy watching performances. What types of performances do you usually prefer? Do you have a favorite actor or performer? Can you tell me about a performance that this person was involved in?",
+    "hint": "prefer(선호하다), favorite performer(가장 좋아하는 공연자), actor(배우), musical(뮤지컬), play(연극), concert(콘서트), involved in(~에 참여한), impressive role(인상적인 역할), talented(재능 있는), performance style(공연 스타일)",
+    "translation": "당신은 공연 보는 것을 즐긴다고 말했습니다. 보통 어떤 종류의 공연을 선호하나요? 좋아하는 배우나 공연자가 있나요? 그 사람이 참여했던 공연에 대해 말해 줄 수 있나요?"
+  },
+  {
+    "id": 8,
+    "text": "You said that you like going to see performances. Can you describe a theater or venue you often visit? Where is it located, and what is it like? How frequently do you go there? What kinds of shows are usually held there?",
+    "hint": "venue(공연 장소), often visit(자주 방문하다), located in(~에 위치한), convenient location(편리한 위치), cozy atmosphere(아늑한 분위기), stage facilities(무대 시설), sound system(음향 시설), regular shows(정기 공연), musical shows(뮤지컬 공연), local performances(지역 공연)",
+    "translation": "당신은 공연을 보러 가는 것을 좋아한다고 말했습니다. 자주 방문하는 극장이나 공연 장소를 묘사해 줄 수 있나요? 어디에 있고 어떤 곳인가요? 얼마나 자주 그곳에 가나요? 보통 어떤 종류의 공연이 그곳에서 열리나요?"
+  },
+  {
+    "id": 9,
+    "text": "Think about the last time you went to see a performance. What did you do from the moment you arrived at the venue? What did you do before the show started, and what did you do after it ended? Please describe your experience step by step.",
+    "hint": "last time(지난번), arrive at the venue(공연장에 도착하다), pick up tickets(표를 찾다), wait in the lobby(로비에서 기다리다), buy refreshments(간식을 사다), find my seat(자리를 찾다), before the show started(공연이 시작되기 전에), after it ended(끝난 후에), step by step(단계별로), share impressions(소감을 나누다)",
+    "translation": "마지막으로 공연을 보러 갔던 때를 떠올려 보세요. 공연장에 도착한 순간부터 무엇을 했나요? 공연이 시작되기 전에는 무엇을 했고, 끝난 후에는 무엇을 했나요? 당신의 경험을 순서대로 묘사해주세요."
+  },
+  {
+    "id": 10,
+    "text": "How have your preferences for performances changed over time? What kinds of performances did you enjoy before, and how are your preferences different now?",
+    "hint": "preferences(취향), changed over time(시간이 지나며 변하다), in the past(과거에는), these days(요즘에는), enjoy more(더 즐기다), light shows(가벼운 공연), serious themes(진지한 주제), high-quality production(높은 완성도), personal taste(개인 취향), become interested in(~에 관심이 생기다)",
+    "translation": "시간이 지나면서 공연에 대한 당신의 취향은 어떻게 변했나요? 예전에는 어떤 종류의 공연을 즐겼고, 지금은 취향이 어떻게 달라졌나요?"
+  },
+  {
+    "id": 11,
+    "text": "Tell me about a performance that left a strong impression on you. What kind of performance was it? What stood out the most? Who performed in it? Why was it so memorable, and how did you feel while watching it?",
+    "hint": "left a strong impression(강한 인상을 남기다), stood out(두드러지다), main performer(주요 공연자), memorable(기억에 남는), emotional scene(감동적인 장면), powerful acting(강렬한 연기), beautiful music(아름다운 음악), audience reaction(관객 반응), moving experience(감동적인 경험), unforgettable(잊을 수 없는)",
+    "translation": "당신에게 강한 인상을 남긴 공연에 대해 말해 주세요. 어떤 종류의 공연이었나요? 무엇이 가장 두드러졌나요? 누가 그 공연에 출연했나요? 왜 그렇게 기억에 남았고, 보는 동안 기분이 어땠나요?"
+  },
+  {
+    "id": 12,
+    "text": "Can you explain how you first got interested in watching performances? When did this happen, and where did you go? What kind of performance did you see at that time, and what was your overall impression?",
+    "hint": "got interested in(~에 관심을 갖게 되다), at that time(그때), overall impression(전반적인 인상), first experience(첫 경험), went to see(보러 가다), live performance(라이브 공연), fascinated by(~에 매료된), enjoyable(즐거운), impressive stage(인상적인 무대), made me want to go again(다시 가고 싶게 만들다)",
+    "translation": "어떻게 처음 공연 보는 것에 관심을 갖게 되었는지 설명해 줄 수 있나요? 언제 그런 일이 있었고 어디에 갔나요? 그때 어떤 종류의 공연을 봤고, 전반적인 인상은 어땠나요?"
   }
 ]
