@@ -28,5 +28,47 @@
   "text": "How did you first become interested in cooking? How did you learn to cook? Did someone teach you cooking? Who did you cook with? Please tell me everything about it in detail.",
   "hint": "first became interested(처음 관심을 갖게 되다), learn by watching(보면서 배우다), recipe(레시피), family member(가족 구성원), teach me how to cook(요리를 가르쳐 주다), cook together(함께 요리하다), kitchen experience(주방 경험), practice regularly(꾸준히 연습하다), gain confidence(자신감을 얻다), enjoyable activity(즐거운 활동)",
   "translation": "어떻게 처음 요리에 관심을 가지게 되었나요? 요리를 어떻게 배우셨나요? 누군가 요리를 가르쳐 줬었나요? 누구와 함께 요리를 했었나요? 모든 것을 자세히 말해주세요."
+  },
+  {
+  "id": 6,
+  "text": "Compare the food in your country with the food in another country. What are the differences? Is it the recipes or the ingredients that mainly differ? Tell me in detail.",
+  "hint": "compare(비교하다), food in my country(우리나라 음식), another country(다른 나라), differences(차이점), recipes(레시피), ingredients(재료), cooking style(요리 방식), seasoning(양념), taste(맛), tell in detail(자세히 말하다)",
+  "translation": "다른 나라와 당신의 나라의 음식을 비교해주세요. 무엇이 다른가요? 레시피가 다른가요? 아니면 주로 음식 재료가 다른가요? 자세히 말씀해주세요."
+  },
+  {
+  "id": 7,
+  "text": "What dish are you best at making? What kind of food is it? Can you explain the recipe and how you usually make it?",
+  "hint": "dish(요리), be best at(~을 가장 잘하다), make food(음식을 만들다), explain the recipe(레시피를 설명하다), ingredients(재료), preparation(준비), cooking steps(조리 단계), usually make(보통 만들다), season the food(간을 하다), serve(내놓다)",
+  "translation": "당신이 가장 잘 만드는 요리는 무엇인가요? 어떤 종류의 음식인가요? 그 레시피와 보통 어떻게 만드는지 설명해 줄 수 있나요?"
+  },
+  {
+  "id": 8,
+  "text": "You mentioned that you enjoy cooking. What types of food do you usually cook? Do you have a recipe you often use? When and where do you normally cook? Why do you enjoy cooking? Please describe the entire cooking process from start to finish.",
+  "hint": "enjoy cooking(요리를 즐기다), types of food(음식 종류), usually cook(보통 요리하다), recipe I often use(자주 사용하는 레시피), normally cook(보통 요리하다), kitchen(주방), enjoy cooking(요리를 즐기다), entire process(전체 과정), from start to finish(처음부터 끝까지), describe(묘사하다)",
+  "translation": "당신은 요리를 즐긴다고 말했습니다. 보통 어떤 종류의 음식을 요리하나요? 자주 사용하는 레시피가 있나요? 언제 어디서 보통 요리하나요? 왜 요리를 즐기나요? 처음부터 끝까지 전체 요리 과정을 묘사해주세요."
+  },
+  {
+  "id": 9,
+  "text": "Compare the food in your country with food from another country. What are the main differences? Are the ingredients, cooking methods, or flavors different? Please explain in detail.",
+  "hint": "food from another country(다른 나라 음식), main differences(주요 차이점), ingredients(재료), cooking methods(조리법), flavors(맛), spicy(매운), mild(순한), traditional food(전통 음식), cultural difference(문화적 차이), explain in detail(자세히 설명하다)",
+  "translation": "당신의 나라 음식과 다른 나라 음식을 비교해주세요. 주요 차이점은 무엇인가요? 재료, 조리법, 또는 맛이 다른가요? 자세히 설명해주세요."
+  },
+  {
+  "id": 10,
+  "text": "Think about a foreign dish and a dish from your country. How are they different? Do they use different ingredients or recipes? Please compare them with as many details as possible.",
+  "hint": "foreign dish(외국 요리), dish from my country(우리나라 요리), different ingredients(다른 재료), different recipes(다른 레시피), compare(비교하다), flavor(맛), texture(식감), cooking process(조리 과정), traditional style(전통 방식), as many details as possible(가능한 많은 세부사항)",
+  "translation": "외국 요리와 당신의 나라 요리를 떠올려 보세요. 그것들은 어떻게 다른가요? 서로 다른 재료나 레시피를 사용하나요? 가능한 많은 세부사항으로 비교해주세요."
+  },
+  {
+  "id": 11,
+  "text": "Tell me about a problem you had while cooking recently. What went wrong? How did you handle the situation? Please describe what happened in detail.",
+  "hint": "problem while cooking(요리 중 문제), recently(최근에), what went wrong(무엇이 잘못되었는지), handle the situation(상황을 처리하다), burn the food(음식을 태우다), too salty(너무 짠), missing ingredient(빠진 재료), fix the mistake(실수를 고치다), describe in detail(자세히 묘사하다), learn a lesson(교훈을 얻다)",
+  "translation": "최근에 요리하면서 겪은 문제에 대해 말해주세요. 무엇이 잘못되었나요? 그 상황을 어떻게 처리했나요? 무슨 일이 있었는지 자세히 묘사해주세요."
+  },
+  {
+  "id": 12,
+  "text": "Can you tell me how you first became interested in cooking? How did you learn it? Did someone teach you, or did you learn by yourself? Who did you cook with at first? Please explain everything in detail.",
+  "hint": "first became interested(처음 관심을 갖게 되다), learn cooking(요리를 배우다), teach me(나에게 가르쳐 주다), learn by myself(혼자 배우다), cook with someone(~와 요리하다), at first(처음에는), watch videos(영상을 보다), practice(연습하다), explain everything(모든 것을 설명하다), in detail(자세히)",
+  "translation": "어떻게 처음 요리에 관심을 갖게 되었는지 말해 줄 수 있나요? 어떻게 배웠나요? 누군가 가르쳐 주었나요, 아니면 혼자 배웠나요? 처음에는 누구와 함께 요리했나요? 모든 것을 자세히 설명해주세요."
   }
 ]

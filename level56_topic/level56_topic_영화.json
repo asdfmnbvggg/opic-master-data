@@ -52,5 +52,59 @@
   "text": "Tell me about the last time you went to see a movie. What movie did you see? Who did you go with? What did you do before and after the movie? Tell me about the recent movie you have seen in detail.",
   "hint": "recently(최근에), the last time I went(마지막으로 갔을 때), watch a movie(영화를 보다), go with a friend(친구와 함께 가다), grab a meal(식사를 하다), arrive early(일찍 도착하다), enjoy the movie(영화를 즐기다), discuss the movie(영화에 대해 이야기하다), share opinions(의견을 나누다), memorable experience(기억에 남는 경험)",
   "translation": "마지막으로 보러 간 영화에 대해 말해주세요. 무슨 영화를 봤나요? 누구와 함께 갔나요? 영화 시작 전과 후에 무엇을 했나요? 최근에 본 영화에 대해 자세히 말해주세요."
+  },
+  {
+  "id": 10,
+  "text": "You mentioned that you enjoy going to the movies. Can you describe a movie theater you like? Where is it located, and what is it like? Why do you enjoy going there? Tell me about a movie you watched at that theater.",
+  "hint": "movie theater(영화관), enjoy going there(그곳에 가는 것을 즐기다), located in(~에 위치한), comfortable seats(편안한 좌석), large screen(큰 화면), sound system(음향 시설), clean facilities(깨끗한 시설), convenient location(편리한 위치), watched at that theater(그 극장에서 본), favorite venue(좋아하는 장소)",
+  "translation": "당신은 영화 보러 가는 것을 즐긴다고 말했습니다. 당신이 좋아하는 영화관을 묘사해 줄 수 있나요? 어디에 위치해 있고 어떤 곳인가요? 왜 그곳에 가는 것을 좋아하나요? 그 영화관에서 본 영화에 대해 말해주세요."
+  },
+  {
+  "id": 11,
+  "text": "Who is your favorite movie actor or actress? Have you heard anything about this person recently? What was the news about? Please tell me about the actor’s background and the details of the news.",
+  "hint": "favorite actor(가장 좋아하는 배우), actress(여배우), recently(최근에), news about(~에 관한 소식), background(배경), career(경력), famous role(유명한 역할), award(상), public attention(대중의 관심), details of the news(뉴스의 세부 내용)",
+  "translation": "당신이 가장 좋아하는 영화 배우 또는 여배우는 누구인가요? 최근에 이 사람에 대해 들은 것이 있나요? 그 뉴스는 무엇에 관한 것이었나요? 그 배우의 배경과 뉴스의 세부 내용을 말해주세요."
+  },
+  {
+  "id": 12,
+  "text": "What types of movies do you usually enjoy watching? What is your favorite movie genre? Why do you prefer that kind of movie? Please explain in detail.",
+  "hint": "types of movies(영화 종류), enjoy watching(보는 것을 즐기다), favorite genre(가장 좋아하는 장르), prefer(선호하다), action movie(액션 영화), comedy(코미디), romance(로맨스), thriller(스릴러), storyline(줄거리), explain in detail(자세히 설명하다)",
+  "translation": "보통 어떤 종류의 영화를 즐겨 보나요? 당신이 가장 좋아하는 영화 장르는 무엇인가요? 왜 그런 종류의 영화를 선호하나요? 자세히 설명해주세요."
+  },
+  {
+  "id": 13,
+  "text": "After watching a movie, what do you usually talk about with your friends or family? Do you discuss the actors, the plot, or your favorite scenes? Please describe your usual conversation in detail.",
+  "hint": "after watching a movie(영화를 본 후), talk about(~에 대해 이야기하다), friends or family(친구나 가족), discuss actors(배우에 대해 이야기하다), plot(줄거리), favorite scenes(좋아하는 장면), ending(결말), impressions(감상), usual conversation(평소 대화), in detail(자세히)",
+  "translation": "영화를 본 후 친구나 가족과 보통 무엇에 대해 이야기하나요? 배우, 줄거리, 또는 좋아하는 장면에 대해 이야기하나요? 평소 나누는 대화를 자세히 묘사해주세요."
+  },
+  {
+  "id": 14,
+  "text": "When you go to a movie theater, who do you usually go with? Why do you like watching movies with that person? What do you usually do together before and after the movie?",
+  "hint": "go to a movie theater(영화관에 가다), usually go with(보통 ~와 가다), watch movies together(함께 영화를 보다), similar taste(비슷한 취향), before the movie(영화 전), after the movie(영화 후), eat together(함께 식사하다), buy snacks(간식을 사다), share opinions(의견을 나누다), spend time together(함께 시간을 보내다)",
+  "translation": "영화관에 갈 때 보통 누구와 함께 가나요? 왜 그 사람과 영화를 보는 것을 좋아하나요? 영화 전과 후에 보통 함께 무엇을 하나요?"
+  },
+  {
+  "id": 15,
+  "text": "How have movies in your country changed over the past several years? What were movies like when you were younger, and what are they like now? Please compare the differences and similarities in detail.",
+  "hint": "changed over the past several years(지난 몇 년간 변했다), movies in my country(우리나라 영화), when I was younger(내가 더 어렸을 때), now(지금), differences(차이점), similarities(공통점), visual effects(시각 효과), story quality(스토리의 질), production style(제작 방식), compare in detail(자세히 비교하다)",
+  "translation": "지난 몇 년간 당신의 나라 영화는 어떻게 변했나요? 당신이 더 어렸을 때 영화는 어땠고 지금은 어떤가요? 차이점과 공통점을 자세히 비교해주세요."
+  },
+  {
+  "id": 16,
+  "text": "Think about a movie you watched when you were a child. What movie was it? How has your taste in movies changed since then? How are the movies you enjoy now different from the ones you liked before?",
+  "hint": "watched when I was a child(어릴 때 봤던), childhood movie(어릴 적 영화), taste in movies(영화 취향), changed since then(그 이후로 변했다), enjoy now(지금 즐기다), liked before(전에 좋아했다), animated movie(애니메이션 영화), mature themes(성숙한 주제), deeper story(더 깊은 이야기), different preference(다른 취향)",
+  "translation": "어릴 때 봤던 영화를 하나 떠올려 보세요. 무슨 영화였나요? 그 이후로 영화 취향이 어떻게 변했나요? 지금 즐기는 영화는 예전에 좋아했던 영화와 어떻게 다른가요?"
+  },
+  {
+  "id": 17,
+  "text": "Can you tell me how you first became interested in watching movies? When and where did it happen? What movie did you watch at that time? How do you feel about movies these days?",
+  "hint": "first became interested(처음 관심을 갖게 되다), watching movies(영화 보기), when and where(언제 어디서), at that time(그때), childhood memory(어릴 적 기억), first movie(처음 본 영화), nowadays(요즘에는), feel about movies(영화에 대해 느끼다), still enjoy(여전히 즐기다), became a hobby(취미가 되다)",
+  "translation": "어떻게 처음 영화 보기에 관심을 갖게 되었는지 말해 줄 수 있나요? 언제 어디에서 그런 일이 있었나요? 그때 어떤 영화를 봤나요? 요즘 영화에 대해 어떻게 느끼나요?"
+  },
+  {
+  "id": 18,
+  "text": "Tell me about the most recent movie you watched at a theater. What movie did you see, and who did you go with? What did you do before and after the movie? Please describe the experience in detail.",
+  "hint": "most recent movie(가장 최근 영화), watched at a theater(극장에서 봤다), who I went with(함께 간 사람), before and after(전후에), buy tickets(표를 사다), get snacks(간식을 사다), talk about the movie(영화에 대해 이야기하다), recent experience(최근 경험), describe in detail(자세히 묘사하다), enjoyable time(즐거운 시간)",
+  "translation": "극장에서 가장 최근에 본 영화에 대해 말해주세요. 무슨 영화를 봤고 누구와 함께 갔나요? 영화 전과 후에 무엇을 했나요? 그 경험을 자세히 묘사해주세요."
   }
 ]
